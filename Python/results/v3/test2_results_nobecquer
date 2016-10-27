@@ -1,0 +1,31 @@
+Naive Bayes Classifier
+**************************************
+ 
+Which library version do you want to import? Word occurancy/Word frequency (0/1)? -----------------------------
+Not all books in training corpus
+> Categories: ['calderon', 'cervantes']
+> Testing score: 93.5%
+> Categories: ['calderon', 'cervantes', 'garcia']
+> Testing score: 92.2%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope']
+> Testing score: 70.8%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez']
+> Testing score: 69.2%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo']
+> Testing score: 65.2%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo', 'quevedo']
+> Testing score: 61.8%
+-----------------------------
+All books in training corpus
+> Categories: ['calderon', 'cervantes']
+> Testing score: 95.9%
+> Categories: ['calderon', 'cervantes', 'garcia']
+> Testing score: 96.0%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope']
+> Testing score: 90.8%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez']
+> Testing score: 91.0%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo']
+> Testing score: 89.2%
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo', 'quevedo']
+> Testing score: 87.3%

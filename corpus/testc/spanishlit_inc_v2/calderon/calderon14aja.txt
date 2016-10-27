@@ -1,0 +1,10 @@
+Coro 1 ¿Qué nave es esa?
+Coro 2
+Esta es,
+pues trae la piedra preciosa,
+la Nave del Mercader.
+Coro 1 ¡Qué ventura!
+Coro 2
+¡Qué placer!
+Coro 1 ¡Buen vïaje...
+31

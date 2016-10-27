@@ -1,0 +1,10 @@
+v. 1335
+v. 1343
+
+al margen izquierdo 'dentro', al derecho 'la caja'
+al margen izquierdo 'dentro', al derecho del v. anterior 'la caja'
+'aestabo das' por error omite la -s en 'estas'
+
+35
+
+1335

@@ -1,0 +1,10 @@
+HOMBRE 2o.:
+HOMBRE 3o.:
+PASQUÍN:
+30
+MÚSICOS:
+35
+MUJER 1a.:
+40
+
+LIBIA:

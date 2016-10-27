@@ -1,0 +1,10 @@
+Sale RODRIGO
+
+RODRIGO:
+¿De dónde vienes?
+LUIS:
+No sé.
+RODRIGO:
+Triste parece que estás.
+¿La causa no me dirás?
+LUIS:

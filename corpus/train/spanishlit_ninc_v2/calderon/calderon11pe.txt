@@ -1,0 +1,10 @@
+62
+
+MANUEL:
+Éste es mi cuarto en efecto.
+ISABEL:
+¿Eres tú?
+COSME:
+Sí, soy yo.
+ISABEL:
+Vente

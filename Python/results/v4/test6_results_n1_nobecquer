@@ -1,0 +1,60 @@
+Which library version do you want to import? Choose N value for the Ngram: Should we consider becquer [y/n]? > Define categories... Done!
+> Obtain language model of calderon ... Done!
+> Obtain language model of cervantes ... Done!
+> Obtain language model of garcia ... Done!
+> Obtain language model of lope ... Done!
+> Obtain language model of perez ... Done!
+> Obtain language model of pardo ... Done!
+> Obtain language model of quevedo ... Done!
+> Obtain all language models... Done!
+> Load test files... Done!
+> Initialize classification matrix with value zero... Done!
+> Classification of tests from category lope ... Done!
+> Classification of tests from category garcia ... Done!
+Error in: true:  cervantes, Evaluated as: calderon  (ignored)
+Error in: true:  cervantes, Evaluated as: cervantes  (ignored)
+Error in: true:  cervantes, Evaluated as: garcia  (ignored)
+Error in: true:  cervantes, Evaluated as: lope  (ignored)
+Error in: true:  cervantes, Evaluated as: perez  (ignored)
+Error in: true:  cervantes, Evaluated as: pardo  (ignored)
+Error in: true:  cervantes, Evaluated as: quevedo  (ignored)
+> Classification of tests from category cervantes ... Done!
+> Classification of tests from category calderon ... Done!
+Error in: true:  quevedo, Evaluated as: calderon  (ignored)
+Error in: true:  quevedo, Evaluated as: cervantes  (ignored)
+Error in: true:  quevedo, Evaluated as: garcia  (ignored)
+Error in: true:  quevedo, Evaluated as: lope  (ignored)
+Error in: true:  quevedo, Evaluated as: perez  (ignored)
+Error in: true:  quevedo, Evaluated as: pardo  (ignored)
+Error in: true:  quevedo, Evaluated as: quevedo  (ignored)
+> Classification of tests from category quevedo ... Done!
+Error in: true:  perez, Evaluated as: calderon  (ignored)
+Error in: true:  perez, Evaluated as: cervantes  (ignored)
+Error in: true:  perez, Evaluated as: garcia  (ignored)
+Error in: true:  perez, Evaluated as: lope  (ignored)
+Error in: true:  perez, Evaluated as: perez  (ignored)
+Error in: true:  perez, Evaluated as: pardo  (ignored)
+Error in: true:  perez, Evaluated as: quevedo  (ignored)
+> Classification of tests from category perez ... Done!
+> Classification of tests from category pardo ... Done!
+> Fulfill the classification matrix... Done!
+Classification matrix (row: real, column: estimated):
+           calderon  cervantes  garcia  lope  pardo  perez  quevedo
+calderon        689          3       0   174      0      1       27
+cervantes         4        224       3    70      0      0       25
+garcia            0          0     305     7      3      1        4
+lope             97         18       5   927      0      2       37
+pardo             1          0       5     0    395     11        4
+perez             1          0      72     2     12    955       15
+quevedo           1         46       0     9      0      1      273
+> Initialize metric matrix for recall/precission/f1 score with value zero... Done!
+Metric matrix:
+                 F1 score      Precission          Recall  Support
+calderon         0.816835        0.868852        0.770694      894
+cervantes        0.726094        0.769759        0.687117      326
+garcia           0.859155        0.782051        0.953125      320
+lope             0.814945        0.779647        0.853591     1086
+perez            0.941815        0.983522          0.9035     1057
+pardo            0.956416        0.963415        0.949519      416
+quevedo          0.763636        0.709091        0.827273      330
+global     0.851723634543  0.857758379977  0.850756378415     4429

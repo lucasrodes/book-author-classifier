@@ -1,0 +1,25 @@
+2230
+
+(Salen los soldados que pudieren.)
+[SOLDADO] 1
+[SOLDADO] 2
+CLARÍN
+TODOS
+CLARÍN
+[SOLDADO] 2
+
+Entrad dentro.
+Aquí está.
+No está.
+Señor...
+¿Si vienen borrachos éstos? [161]
+Tú nuestro príncipe eres;
+ni admitimos ni queremos
+
+2235
+
+77
+
+TODOS.
+CLARÍN
+

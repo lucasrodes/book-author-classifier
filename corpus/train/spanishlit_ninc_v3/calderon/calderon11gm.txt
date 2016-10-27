@@ -1,0 +1,10 @@
+MANUEL:
+Tampoco.
+COSME:
+¿Mágicos?
+MANUEL:
+Es necedad.
+COSME:
+¿Nigromantes?
+MANUEL:
+Liviandad.

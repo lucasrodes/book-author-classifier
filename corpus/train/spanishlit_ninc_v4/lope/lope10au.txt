@@ -1,0 +1,25 @@
+275
+
+CAMPASPE:
+280
+
+PIRENE:
+
+CAMPASPE:
+
+[redondillas]
+
+Escóndese CAMPASPE. Sale ALEJANDRO, arriba
+ALEJANDRO:
+
+Herido va el jabalí.
+
+Sale CAMPASPE, sin reparar en ALEJANDRO, ni él en ella
+285
+
+CAMPASPE:
+
+290
+
+ALEJANDRO:
+CAMPASPE:

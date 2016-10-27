@@ -1,0 +1,10 @@
+conmigo.
+MANUEL:
+Tú dices bien.
+ISABEL:
+No hay qué temer, nada esperes.
+COSME:
+Señor, ¡que el duende me lleva!
+Llévale [a COSME] ISABEL
+
+MANUEL:

@@ -1,0 +1,84 @@
+Should we consider becquer [y/n]? > Define categories... Done!
+Which library version do you want to import? Choose N value for the Ngram: > Define categories... Done!
+> Obtain language model of becquer ... Done!
+> Obtain language model of calderon ... Done!
+> Obtain language model of cervantes ... Done!
+> Obtain language model of garcia ... Done!
+> Obtain language model of lope ... Done!
+> Obtain language model of perez ... Done!
+> Obtain language model of pardo ... Done!
+> Obtain language model of quevedo ... Done!
+> Obtain all language models... Done!
+> Load test files... Done!
+> Initialize classification matrix with value zero... Done!
+> Classification of tests from category cervantes ... Done!
+Error in: true:  garcia, Evaluated as: becquer  (ignored)
+Error in: true:  garcia, Evaluated as: calderon  (ignored)
+Error in: true:  garcia, Evaluated as: cervantes  (ignored)
+Error in: true:  garcia, Evaluated as: garcia  (ignored)
+Error in: true:  garcia, Evaluated as: lope  (ignored)
+Error in: true:  garcia, Evaluated as: perez  (ignored)
+Error in: true:  garcia, Evaluated as: pardo  (ignored)
+Error in: true:  garcia, Evaluated as: quevedo  (ignored)
+> Classification of tests from category garcia ... Done!
+> Classification of tests from category becquer ... Done!
+Error in: true:  calderon, Evaluated as: becquer  (ignored)
+Error in: true:  calderon, Evaluated as: calderon  (ignored)
+Error in: true:  calderon, Evaluated as: cervantes  (ignored)
+Error in: true:  calderon, Evaluated as: garcia  (ignored)
+Error in: true:  calderon, Evaluated as: lope  (ignored)
+Error in: true:  calderon, Evaluated as: perez  (ignored)
+Error in: true:  calderon, Evaluated as: pardo  (ignored)
+Error in: true:  calderon, Evaluated as: quevedo  (ignored)
+> Classification of tests from category calderon ... Done!
+> Classification of tests from category quevedo ... Done!
+Error in: true:  perez, Evaluated as: becquer  (ignored)
+Error in: true:  perez, Evaluated as: calderon  (ignored)
+Error in: true:  perez, Evaluated as: cervantes  (ignored)
+Error in: true:  perez, Evaluated as: garcia  (ignored)
+Error in: true:  perez, Evaluated as: lope  (ignored)
+Error in: true:  perez, Evaluated as: perez  (ignored)
+Error in: true:  perez, Evaluated as: pardo  (ignored)
+Error in: true:  perez, Evaluated as: quevedo  (ignored)
+> Classification of tests from category perez ... Done!
+Error in: true:  pardo, Evaluated as: becquer  (ignored)
+Error in: true:  pardo, Evaluated as: calderon  (ignored)
+Error in: true:  pardo, Evaluated as: cervantes  (ignored)
+Error in: true:  pardo, Evaluated as: garcia  (ignored)
+Error in: true:  pardo, Evaluated as: lope  (ignored)
+Error in: true:  pardo, Evaluated as: perez  (ignored)
+Error in: true:  pardo, Evaluated as: pardo  (ignored)
+Error in: true:  pardo, Evaluated as: quevedo  (ignored)
+> Classification of tests from category pardo ... Done!
+Error in: true:  lope, Evaluated as: becquer  (ignored)
+Error in: true:  lope, Evaluated as: calderon  (ignored)
+Error in: true:  lope, Evaluated as: cervantes  (ignored)
+Error in: true:  lope, Evaluated as: garcia  (ignored)
+Error in: true:  lope, Evaluated as: lope  (ignored)
+Error in: true:  lope, Evaluated as: perez  (ignored)
+Error in: true:  lope, Evaluated as: pardo  (ignored)
+Error in: true:  lope, Evaluated as: quevedo  (ignored)
+> Classification of tests from category lope ... Done!
+> Fulfill the classification matrix... Done!
+Classification matrix (row: real, column: estimated):
+           becquer  calderon  cervantes  garcia  lope  pardo  perez  quevedo
+becquer         98         0          4       0     2      0      0        0
+calderon         7      1456        477       4   254      5     20        9
+cervantes        0        26        756       1    25      0      0        2
+garcia          79        26        124     514    16     20     16        2
+lope            12       669        814      19  1172      2     15        9
+pardo          105         7        325       1     1    572     25        0
+perez           95        31        603      44     7     61   1796        0
+quevedo          0        13        441       3    13      0      2      347
+> Initialize metric matrix for recall/precission/f1 score with value zero... Done!
+Metric matrix:
+                 F1 score     Precission          Recall  Support
+becquer             0.392       0.247475        0.942308      104
+calderon         0.652915       0.653501         0.65233     2232
+cervantes        0.347267       0.213318        0.933333      810
+garcia           0.743312       0.877133        0.644918      797
+lope              0.55783       0.786577        0.432153     2712
+perez            0.796276       0.958378        0.681077     2637
+pardo            0.674528       0.866667        0.552124     1036
+quevedo          0.584175       0.940379        0.423687      819
+global     0.642472700376  0.77910570103  0.602045393379    11147

@@ -1,0 +1,25 @@
+EPAMINONDAS: ¡Viva Tebas! ¡Cierra! ¡Al arma!
+
+[romance]
+
+Vase
+820
+
+825
+
+TIMÓCLEA:
+
+Ya los fieros escuadrones
+furiosamente se traban;
+animosos y soberbios
+rasgan petos, quiebran lanzas.
+Unos dicen, “¡Viva Tebas!”;
+otros “¡Alejandro!” claman;
+unos, animosos, hieren;
+otros, ofendidos, matan.
+¡Qué valeroso Alejandro
+21
+
+830
+
+835

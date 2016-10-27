@@ -1,0 +1,10 @@
+JUGADOR 2.° Nada.
+JUGADOR 3.° Nada.
+(El jugador I. ° les da cartas otra vez.)
+JUGADOR 2.° (Mirando sus cartas.) ¡Magnífico!
+JUGADOR 3.° (Mirando sus cartas y con inquietud.) ¡Vamos a ver!
+JUGADOR I.° (Al joven.) Usted juega.
+JOVEN. (Alegre.) ¡Y juego! (Echa una carta sobre la mesa.)
+JUGADOR I.° (Enérgico.) ¡Y Yo!
+JUGADOR 2.° ¡Y yo!
+JUGADOR 3.° ¡Y yo!

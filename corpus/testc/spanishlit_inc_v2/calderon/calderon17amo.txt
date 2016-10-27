@@ -1,0 +1,10 @@
+Coro 2
+Ambos coros
+MATRIMONIO
+MUERTE
+PECADO
+Coro 2
+Coro 1
+Coro 2
+Coro 1
+

@@ -1,0 +1,75 @@
+Should we consider becquer [y/n]? > Define categories... Done!
+Which library version do you want to import? Choose N value for the Ngram: > Define categories... Done!
+> Obtain language model of calderon ... Done!
+> Obtain language model of cervantes ... Done!
+> Obtain language model of garcia ... Done!
+> Obtain language model of lope ... Done!
+> Obtain language model of perez ... Done!
+> Obtain language model of pardo ... Done!
+> Obtain language model of quevedo ... Done!
+> Obtain all language models... Done!
+> Load test files... Done!
+> Initialize classification matrix with value zero... Done!
+Error in: true:  lope, Evaluated as: calderon  (ignored)
+Error in: true:  lope, Evaluated as: cervantes  (ignored)
+Error in: true:  lope, Evaluated as: garcia  (ignored)
+Error in: true:  lope, Evaluated as: lope  (ignored)
+Error in: true:  lope, Evaluated as: perez  (ignored)
+Error in: true:  lope, Evaluated as: pardo  (ignored)
+Error in: true:  lope, Evaluated as: quevedo  (ignored)
+> Classification of tests from category lope ... Done!
+Error in: true:  garcia, Evaluated as: calderon  (ignored)
+Error in: true:  garcia, Evaluated as: cervantes  (ignored)
+Error in: true:  garcia, Evaluated as: garcia  (ignored)
+Error in: true:  garcia, Evaluated as: lope  (ignored)
+Error in: true:  garcia, Evaluated as: perez  (ignored)
+Error in: true:  garcia, Evaluated as: pardo  (ignored)
+Error in: true:  garcia, Evaluated as: quevedo  (ignored)
+> Classification of tests from category garcia ... Done!
+> Classification of tests from category cervantes ... Done!
+Error in: true:  calderon, Evaluated as: calderon  (ignored)
+Error in: true:  calderon, Evaluated as: cervantes  (ignored)
+Error in: true:  calderon, Evaluated as: garcia  (ignored)
+Error in: true:  calderon, Evaluated as: lope  (ignored)
+Error in: true:  calderon, Evaluated as: perez  (ignored)
+Error in: true:  calderon, Evaluated as: pardo  (ignored)
+Error in: true:  calderon, Evaluated as: quevedo  (ignored)
+> Classification of tests from category calderon ... Done!
+> Classification of tests from category quevedo ... Done!
+Error in: true:  perez, Evaluated as: calderon  (ignored)
+Error in: true:  perez, Evaluated as: cervantes  (ignored)
+Error in: true:  perez, Evaluated as: garcia  (ignored)
+Error in: true:  perez, Evaluated as: lope  (ignored)
+Error in: true:  perez, Evaluated as: perez  (ignored)
+Error in: true:  perez, Evaluated as: pardo  (ignored)
+Error in: true:  perez, Evaluated as: quevedo  (ignored)
+> Classification of tests from category perez ... Done!
+Error in: true:  pardo, Evaluated as: calderon  (ignored)
+Error in: true:  pardo, Evaluated as: cervantes  (ignored)
+Error in: true:  pardo, Evaluated as: garcia  (ignored)
+Error in: true:  pardo, Evaluated as: lope  (ignored)
+Error in: true:  pardo, Evaluated as: perez  (ignored)
+Error in: true:  pardo, Evaluated as: pardo  (ignored)
+Error in: true:  pardo, Evaluated as: quevedo  (ignored)
+> Classification of tests from category pardo ... Done!
+> Fulfill the classification matrix... Done!
+Classification matrix (row: real, column: estimated):
+           calderon  cervantes  garcia  lope  pardo  perez  quevedo
+calderon       1561         36      18   455      6     14      142
+cervantes        32        541      20   146      1      2       68
+garcia            8          2     710    31     26     10       10
+lope            437         94      49  1953      6     15      158
+pardo             6          1      20     6    915     50       38
+perez            12          4     179    19    141   2173      109
+quevedo           6        137       5    23      2      4      642
+> Initialize metric matrix for recall/precission/f1 score with value zero... Done!
+Metric matrix:
+                 F1 score     Precission          Recall  Support
+calderon         0.727061       0.757032        0.699373     2232
+cervantes        0.665846       0.663804        0.667901      810
+garcia           0.789766       0.709291        0.890841      797
+lope             0.730776       0.741739        0.720133     2712
+perez            0.886035       0.958113        0.824042     2637
+pardo            0.857947       0.834093        0.883205     1036
+quevedo          0.646526       0.550129        0.783883      819
+global     0.772277064435  0.78289394046  0.769265598116    11043

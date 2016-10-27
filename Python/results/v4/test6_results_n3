@@ -1,0 +1,67 @@
+Which library version do you want to import? Choose N value for the Ngram: Should we consider becquer [y/n]? > Define categories... Done!
+> Obtain language model of becquer ... Done!
+> Obtain language model of calderon ... Done!
+> Obtain language model of cervantes ... Done!
+> Obtain language model of garcia ... Done!
+> Obtain language model of lope ... Done!
+> Obtain language model of perez ... Done!
+> Obtain language model of pardo ... Done!
+> Obtain language model of quevedo ... Done!
+> Obtain all language models... Done!
+> Load test files... Done!
+> Initialize classification matrix with value zero... Done!
+Error in: true:  cervantes, Evaluated as: becquer  (ignored)
+Error in: true:  cervantes, Evaluated as: calderon  (ignored)
+Error in: true:  cervantes, Evaluated as: cervantes  (ignored)
+Error in: true:  cervantes, Evaluated as: garcia  (ignored)
+Error in: true:  cervantes, Evaluated as: lope  (ignored)
+Error in: true:  cervantes, Evaluated as: perez  (ignored)
+Error in: true:  cervantes, Evaluated as: pardo  (ignored)
+Error in: true:  cervantes, Evaluated as: quevedo  (ignored)
+> Classification of tests from category cervantes ... Done!
+> Classification of tests from category garcia ... Done!
+> Classification of tests from category becquer ... Done!
+> Classification of tests from category calderon ... Done!
+Error in: true:  quevedo, Evaluated as: becquer  (ignored)
+Error in: true:  quevedo, Evaluated as: calderon  (ignored)
+Error in: true:  quevedo, Evaluated as: cervantes  (ignored)
+Error in: true:  quevedo, Evaluated as: garcia  (ignored)
+Error in: true:  quevedo, Evaluated as: lope  (ignored)
+Error in: true:  quevedo, Evaluated as: perez  (ignored)
+Error in: true:  quevedo, Evaluated as: pardo  (ignored)
+Error in: true:  quevedo, Evaluated as: quevedo  (ignored)
+> Classification of tests from category quevedo ... Done!
+Error in: true:  perez, Evaluated as: becquer  (ignored)
+Error in: true:  perez, Evaluated as: calderon  (ignored)
+Error in: true:  perez, Evaluated as: cervantes  (ignored)
+Error in: true:  perez, Evaluated as: garcia  (ignored)
+Error in: true:  perez, Evaluated as: lope  (ignored)
+Error in: true:  perez, Evaluated as: perez  (ignored)
+Error in: true:  perez, Evaluated as: pardo  (ignored)
+Error in: true:  perez, Evaluated as: quevedo  (ignored)
+> Classification of tests from category perez ... Done!
+> Classification of tests from category pardo ... Done!
+> Classification of tests from category lope ... Done!
+> Fulfill the classification matrix... Done!
+Classification matrix (row: real, column: estimated):
+           becquer  calderon  cervantes  garcia  lope  pardo  perez  quevedo
+becquer         41         0          1       0     0      0      1        0
+calderon         2       675        139       0    75      0      1        2
+cervantes        0         3        321       0     2      0      0        0
+garcia          29         7         32     243     4      4      1        0
+lope             2       255        280       2   546      0      1        0
+pardo           26         2        110       0     0    274      4        0
+perez           18         3        195      15     0      5    821        0
+quevedo          0         4        184       0     4      0      1      137
+> Initialize metric matrix for recall/precission/f1 score with value zero... Done!
+Metric matrix:
+                 F1 score      Precission          Recall  Support
+becquer          0.509317        0.347458        0.953488       43
+calderon         0.732501        0.711275        0.755034      894
+cervantes        0.404282        0.254358        0.984663      326
+garcia           0.837931        0.934615        0.759375      320
+lope             0.635993        0.865293        0.502762     1086
+perez            0.870164        0.989157        0.776727     1057
+pardo            0.783977        0.968198        0.658654      416
+quevedo          0.584222        0.985612        0.415152      330
+global     0.716920940393  0.837676052204  0.683810375671     4472

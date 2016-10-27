@@ -1,0 +1,157 @@
+Support Vector Machine with GridSearch
+**************************************
+ 
+Which library version do you want to import? Do you want to consider Lope de Vega, Calderon de la Barca or both [l/c/b]? Word occurancy/Word frequency (0/1)? -----------------------------
+Not all books in training corpus
+> Categories: ['calderon', 'cervantes']
+             precision    recall  f1-score   support
+
+   calderon       0.93      0.99      0.96      2232
+  cervantes       0.95      0.79      0.87       810
+
+avg / total       0.94      0.93      0.93      3042
+
+>> Testing score: 93.4% 
+
+> Categories: ['calderon', 'cervantes', 'garcia']
+             precision    recall  f1-score   support
+
+   calderon       0.86      0.99      0.92      2232
+  cervantes       0.93      0.80      0.86       810
+     garcia       0.98      0.72      0.83       797
+
+avg / total       0.90      0.89      0.89      3839
+
+>> Testing score: 89.2% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope']
+             precision    recall  f1-score   support
+
+   calderon       0.48      0.98      0.64      2232
+  cervantes       0.95      0.71      0.82       810
+     garcia       0.91      0.75      0.82       797
+       lope       0.87      0.24      0.38      2712
+
+avg / total       0.75      0.61      0.58      6551
+
+>> Testing score: 61.1% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez']
+             precision    recall  f1-score   support
+
+   calderon       0.54      0.92      0.68      2232
+  cervantes       0.94      0.60      0.73       810
+     garcia       0.89      0.59      0.71       797
+       lope       0.79      0.44      0.56      2712
+      perez       0.90      0.97      0.93      2637
+
+avg / total       0.78      0.73      0.72      9188
+
+>> Testing score: 73.4% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo']
+             precision    recall  f1-score   support
+
+   calderon       0.48      0.97      0.64      2232
+  cervantes       0.92      0.63      0.75       810
+     garcia       0.83      0.63      0.72       797
+       lope       0.84      0.24      0.37      2712
+      pardo       0.66      0.91      0.76      1036
+      perez       0.92      0.81      0.86      2637
+
+avg / total       0.77      0.68      0.65     10224
+
+>> Testing score: 67.5% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo', 'quevedo']
+             precision    recall  f1-score   support
+
+   calderon       0.48      0.96      0.64      2232
+  cervantes       0.78      0.54      0.64       810
+     garcia       0.87      0.54      0.66       797
+       lope       0.82      0.25      0.39      2712
+      pardo       0.54      0.93      0.68      1036
+      perez       0.86      0.77      0.81      2637
+    quevedo       0.85      0.55      0.67       819
+
+avg / total       0.74      0.65      0.63     11043
+
+>> Testing score: 64.7% 
+
+-----------------------------
+All books in training corpus
+> Categories: ['calderon', 'cervantes']
+             precision    recall  f1-score   support
+
+   calderon       0.96      0.99      0.97      1968
+  cervantes       0.98      0.91      0.94       963
+
+avg / total       0.97      0.97      0.96      2931
+
+>> Testing score: 96.5% 
+
+> Categories: ['calderon', 'cervantes', 'garcia']
+             precision    recall  f1-score   support
+
+   calderon       0.95      0.99      0.97      1968
+  cervantes       0.98      0.91      0.95       963
+     garcia       0.99      0.93      0.96       535
+
+avg / total       0.96      0.96      0.96      3466
+
+>> Testing score: 96.0% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope']
+             precision    recall  f1-score   support
+
+   calderon       0.88      0.96      0.92      1968
+  cervantes       0.95      0.91      0.93       963
+     garcia       0.94      0.96      0.95       535
+       lope       0.94      0.83      0.88      1410
+
+avg / total       0.92      0.91      0.91      4876
+
+>> Testing score: 91.3% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez']
+             precision    recall  f1-score   support
+
+   calderon       0.84      0.96      0.89      1968
+  cervantes       0.98      0.87      0.92       963
+     garcia       0.98      0.91      0.94       535
+       lope       0.91      0.80      0.85      1410
+      perez       0.98      1.00      0.99      2099
+
+avg / total       0.93      0.92      0.92      6975
+
+>> Testing score: 92.2% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo']
+             precision    recall  f1-score   support
+
+   calderon       0.83      0.96      0.89      1968
+  cervantes       0.96      0.87      0.91       963
+     garcia       0.98      0.89      0.93       535
+       lope       0.93      0.76      0.83      1410
+      pardo       0.97      0.87      0.92      1258
+      perez       0.90      0.99      0.94      2099
+
+avg / total       0.91      0.90      0.90      8233
+
+>> Testing score: 90.4% 
+
+> Categories: ['calderon', 'cervantes', 'garcia', 'lope', 'perez', 'pardo', 'quevedo']
+             precision    recall  f1-score   support
+
+   calderon       0.85      0.97      0.90      1968
+  cervantes       0.97      0.87      0.92       963
+     garcia       0.96      0.92      0.94       535
+       lope       0.92      0.84      0.88      1410
+      pardo       0.95      0.94      0.95      1258
+      perez       0.96      0.97      0.96      2099
+    quevedo       0.95      0.89      0.92       396
+
+avg / total       0.93      0.93      0.93      8629
+
+>> Testing score: 92.5% 
+

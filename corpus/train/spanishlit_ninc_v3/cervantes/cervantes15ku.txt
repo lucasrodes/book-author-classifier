@@ -1,0 +1,10 @@
+NECESIDAD Rotos traes los zapatos y vestido.
+AURELIO Zapatos y vestidos tengo rotos.
+NECESIDAD En un pellejo duermes, y en el suelo.
+AURELIO En el suelo me acuesto en un pellejo.
+NECESIDAD Corta traes la camisa, sucia y rota.
+AURELIO Sucia, corta camisa y rota traigo.
+OCASIÓN Pues yo sé, si quisieses, que hallarías
+ocasión de salir dese trabajo.
+AURELIO Pues yo sé, si quisiese, que podría
+salir desta miseria a poca costa.

@@ -1,0 +1,4548 @@
+NOCHE DE SAN JUAN
+de Lope de Vega
+Sírvase notar que el texto presentado aquí está basado en varios impresos
+tempranos y modernos de la NOCHE DE SAN JUAN, según la edición de Anita
+Stoll quien nos la ha regalado. Luego fue preparado con codificación de HTML por
+Vern Williamsen, en 1995. El texto ha sido repasado varias veces por medios
+personales y electrónicos pero todavía puede contener errores de naturaleza
+tipográfica o de codificación. Si, por suerte, algunos se encuentran, haga el favor de
+escribir una nota a vwilliam@u.arizona.edu. Agradezco su ayuda en el trabajo de
+depuración. Este texto está presentado solamente para usos académicos. Para
+cualquier otro empleo, póngase en contacto con el encargado de la lista.
+La base textualde esta edición es la Parte XXI (Madrid:Vda. de Alonso Martín,
+1635) de las obras de Lope de Vega, cotejado con la edición de E. Cotarelo y Mori
+(Acad. N., Madrid, 1930) y la de Homero Serís (Madrid: Universal, 1935).
+Vern G. Williamsen, 31 de enero de 1996.
+
+Acto I
+versos 1-370
+versos 371-758
+versos 759-1182
+
+Acto II
+versos 1183-1462
+versos 1463-1798
+versos 1799-2193
+
+Acto III
+versos 2194-2364
+versos 2365-2626
+versos 2627-3035
+Electronic text by Vern G.Williamsen and J T Abraham
+
+1
+
+NOCHE DE SAN JUAN
+Personas que hablan en ella:
+•
+
+Don JUAN
+
+•
+
+Don LUIS
+
+•
+
+Don PEDRO
+
+•
+
+Don BERNARDO
+
+•
+
+TELLO, gracioso
+
+•
+
+OCTAVIO
+
+•
+
+MENDOZA
+
+•
+
+CELIO
+
+•
+
+FABIO
+
+•
+
+LEANDRO
+
+•
+
+RODRIGO
+
+•
+
+LEONARDO
+
+•
+
+Don ALONSO
+
+•
+
+Don FÉLIX
+
+•
+
+Don TORIBIO
+
+•
+
+ALGUACILES
+
+•
+
+Doña LEONOR
+
+•
+
+Doña BLANCA
+
+•
+
+INÉS, criada
+
+•
+
+FENISA
+
+•
+
+ANTONIA, criada
+
+•
+
+LUCRECIA
+
+ACTO PRIMERO
+2
+
+Salen Doña LEONOR, dama, e INÉS,
+criada
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+
+LEONOR:
+
+No sé si podrás oír
+lo que no puedo callar.
+Lo que tú supiste errar,
+¿no lo sabré yo sufrir?
+Perdona el no haberte hablado,
+Inés, queriéndote bien.
+Ya es favor de aquel desdén
+pesarte de haber callado.
+No me podrás dar alcance
+sin un romance hasta el fin.
+Con achaques de latín,
+hablan muchos en romance.
+Las destemplanzas de amor
+no requieren consonancias.
+Si sabes mis ignorancias,
+lo más claro es lo mejor.
+¿Tengo de decir, Inés,
+aquello de escucha?
+No,
+porque si te escucho yo,
+necio advertimiento es.
+Vive un caballero indiano
+enfrente de nuestra casa,
+en aquellas rejas verdes,
+cuando está en ellas, doradas.
+Hombre airoso, limpio y cuerdo,
+don Juan Hurtado se llama;
+dijera mejor, pues hurta,
+don Juan Ladrón, sin Guevara.
+Éste, que mirando en ellas,
+las tardes y las mañanas,
+no curioso de pintura
+los retratos de mi sala,
+sino mi persona viva,
+como papagayo en jaula
+siempre estaba en el balcón
+diciendo a todos: "¿Quién pasa?"
+Debió de pasar amor,
+que como el rey que va a caza
+a las águilas se atreve,
+cuanto y más a humildes garzas.
+Parándose alguna vez,
+preguntóle cómo estaba;
+respondió: "Como cautivo,"
+y miraba mis ventanas.
+De sus ojos y su voz
+a mi labor apelaba;
+mas pocas veces defienden
+las almohadillas las almas.
+Muchas, te confieso, amiga,
+que los ojos levantaba
+por ver si estaba a la reja,
+que no por querer mirarla.
+
+3
+
+Di en cansarme si le vía,
+¡oh, qué necia confianza!
+que pesándome de verle,
+de no verle me pesaba.
+Dicen los que saben desto,
+Inés, que el amor se causa
+de unos espíritus vivos
+que los ojos de quien ama
+a los opuestos envían,
+y como veneno abrasan
+de aquellas sutiles venas
+la sangre más delicada.
+Por esta razón, los niños,
+en los brazos de sus amas,
+enferman de quien los mira,
+aunque es la causa contraria;
+que allí mira el niño amor,
+pero aquí padece el alma,
+que las niñas de los ojos
+las de las almas retratan.
+En la Vitoria una fiesta,
+que en guerra de amor no falta
+la vitoria a quien porfía
+y más si está la esperanza
+tan cerca del Buen Suceso
+el tal indiano esperaba
+que yo llegase a la pila;
+llegué, y al tomar el agua,
+como que hacía lo mismo
+me echó un papel en la manga.
+¿No te dije yo al principio
+cómo Hurtado se llamaba?
+¿Pues qué mayor sutileza
+viniendo entre gente tanta?
+Tomaba con una mano
+el agua y con otra echaba
+el papel, en que fué cierto
+lo que dicen del que anda
+entre la cruz y la pila.
+Pasaron dos horas largas
+mientras en la iglesia estuve,
+donde, por más que rezaba
+más al papel atendía
+que a las imágenes santas.
+Quise romperle mil veces,
+y cuando ya le sacaba
+parece que me decía:
+"Señora, ¿por qué me rasgas?
+¿Qué perderás en saber
+cómo escriben a sus damas
+los amantes?" Pero yo,
+aunque con mudas palabras,
+"No, traidor," le respondía,
+"aquí morirás, que llamas
+para papeles de amores
+suelen ser manos honradas".
+Entre si le rasgo, o no
+¡oh, cuánto yerra quien halla
+luz para atajar principios
+y los remedios dilata!
+
+4
+
+Comencé a rasgarle, y luego
+detuvo el amor la espada,
+porque es ángel que defiende
+papeles cuando honras mata.
+Volvió, en fin, por las razones,
+y la razón desampara,
+afeándome la muerte
+de un pobre papel sin armas.
+El vino conmigo, en fin,
+y en mi aposento, sentada
+en mi cama, vi el papel,
+cortés, como quien engaña,
+y breve, como discreto,
+y aquella máscara santa
+del matrimonio, en los hombres
+treta que ha perdido a tantas.
+Anduve desde este día
+triste y alegre, cansada
+de sufrir mis pensamientos,
+que resistidos desmayan.
+Don Juan, como pescador
+que al pez el sedal alarga,
+cuando ya le tiene asido
+y va mudando la caña,
+envióme una mujer
+destas que cuentan por habas
+los sucesos por venir;
+negro monjil, tocas blancas,
+cuentas de no dar ninguna,
+que cruz y muerte rematan,
+cruz de matrimonios que hacen
+y muertes de honras que acaban.
+Yo no sé, por no cansarte,
+con qué hechizos o palabras
+trocó mi honesto deseo,
+que a dos visitas estaba
+como don Juan me quería,
+claro está, que enamorada.
+Respondí al papel, y a muchos,
+por esta fingida santa,
+a quien mi casa venera
+y a quien mi hermano regala.
+En fin, dando yo lugar,
+todas las noches me habla
+por esas rejas don Juan;
+porque, después de acostada,
+vuelvo a vestirme y salir;
+porque cuando el amor danza,
+no hay Conde Claros, Inés,
+que así salte de la cama.
+Hablamos hasta que el sol
+nos envía, con el alba,
+a decir que ya es de día,
+porque los ojos no bastan.
+Así pasamos las noches,
+y te prometo que es tanta
+la blandura y discreción
+de don Juan, y que me trata
+con tan honesto respeto,
+que, perdida y obligada,
+
+5
+
+pienso advertir a mi hermano
+de que mi vida se pasa
+sin que de mi estado trate;
+que, divertido en sus damas,
+como caballero mozo,
+ni se casa, ni me casa;
+porque somos las mujeres
+fruta que con flor agrada,
+y del tiempo en que se coge
+siempre es mejor la mañana.
+Esta, Inés, la historia ha sido,
+y, cuanto amorosa, casta,
+no le di mano sin ser
+sobre lágrimas prestadas.
+A quien no lo pareciere,
+pruebe a ser un año amada,
+que oír y no responder
+sólo es bueno para estatuas.
+Yo defendí mi valor;
+pero donde el cielo es causa
+y dos almas se conforman,
+ninguna prudencia basta.
+INÉS:
+
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+
+Aunque has pensado que yo
+no entendía tu inquietud
+y estimaba la virtud
+de quien el papel te dio,
+sabe que todo lo sé
+y de Tello, su criado,
+que alguna vez me ha fïado
+tus pensamientos, en fe
+de un poco de voluntad.
+¿Quiéresle bien?
+Es discreto.
+Bueno andaba mi secreto.
+¿Parécete novedad
+que donde mira el señor
+siga su ejemplo el crïado.
+Mi hermano, Inés, ha llamado.
+¡Ay, Dios!
+¿De qué es el temor?
+De venir con él don Juan,
+a quien él jamás habló.
+¿Don Juan?
+Ya le he visto yo,
+y mil sospechas me dan.
+Salen Don JUAN, Don LUIS y TELLO
+
+LUIS:
+JUAN:
+LUIS:
+
+JUAN:
+
+Creed, señor don Juan, que estoy corrido
+si bien no culpa, encogimiento ha sido
+no haberos visitado.
+Confieso que en lo mismo estoy culpado,
+siendo mi obligación.
+Antes la mía,
+que ofreceros debía,
+mi casa y mi amistad, por caballero,
+vecino y forastero.
+Mostráis lo cortesano y lo discreto
+
+6
+
+LUIS:
+
+JUAN:
+LUIS:
+
+JUAN:
+
+LEONOR:
+
+LUIS:
+JUAN:
+
+LUIS:
+LEONOR:
+
+en honrarme, don Luis, y yo os prometo
+que el amor me debéis con que os hacía
+mil visitas el alma cuando os vía,
+con mil ansias de ser amigo vuestro.
+Estrellas tuvo el pensamiento nuestro,
+ellas nos concertaron, pues ha sido
+igual amor el que nos ha vencido;
+servíos desta casa llanamente.
+Esclavo seré suyo eternamente.
+¿Es vuestra hermana esta señora?
+Hoy quiero
+que conozcáis mi hermana. El caballero,
+Leonor, que miras es don Juan Hurtado,
+ya sé que tu retiro recatado
+aun no sabrá que fué nuestro vecino
+desde que a España de las Indias vino.
+(¡Cielos, qué dicha es ésta!)
+Aparte
+Señora, a tantas honras, la respuesta
+es el silencio mudo,
+que es la lengua mejor de quien no pudo
+satisfacer su obligación hablando.
+Y yo, señor don Juan, quiero, imitando,
+si no el ejemplo, el pensamiento vuestro,
+decir callando del contento nuestro
+alguna parte breve
+por mi hermano y por mí.
+Todo se debe
+al valor de don Juan.
+Embarazado
+de tantas honras, casi estoy turbado;
+aunque no lo supiera,
+por hermanos, señores, os tuviera,
+viendo tan parecida cortesía.
+Retírate, Leonor, que hablar querría
+a solas con don Juan.
+Como quisieres,
+aunque la condición de las mujeres
+lleva mal los secretos.
+Aparte a TELLO
+
+JUAN:
+TELLO:
+
+(Tello, ¿que es esto?
+Del amor efetos;
+que se pega también, y es cosa llana
+que a don Luis se le pegó su hermana.
+
+JUAN:
+
+Si hacemos amistad, ¡ay, Leonor mía!,
+aquí veré tu sol sin celosía.)
+[Aparte las dos]
+
+LEONOR:
+INÉS:
+LEONOR:
+
+(Inés, detrás desta cortina quiero
+escuchar a mi hermano, que me muero
+de varios pensamientos combatida.
+¿No ves que es amistad?
+¿Y si es fingida?)
+Escóndense las dos
+
+7
+
+LUIS:
+
+LEONOR:
+INÉS:
+TELLO:
+
+LUIS:
+
+JUAN:
+
+Señor don Juan, ya que habemos
+nuestras almas declarado,
+fuera engaño haber callado
+lo que en su centro tenemos;
+sin prólogos, sin extremos,
+ya sois dueño de la mía.
+¡Ay, qué desdicha sería,
+Inés, que se declarase!
+Mas aguardo que te case.
+(No hay secreto sin espía:
+las dos escuchando están;
+que mujeres, por saber,
+y más cuando hay que temer,
+ventanas en bronce harán.
+Yo quiero, señor don Juan,
+al más hermoso sujeto
+deste lugar, y aunque a efeto
+de casarme, como es justo,
+no corresponde a mi gusto,
+ni en público ni en secreto.
+Creer que es honestidad
+a mi amor, está muy bien;
+que en un público desdén
+hay secreta voluntad.
+Tenéis vos tanta amistad
+con el dueño desta dama,
+que no fué mayor la fama
+de Pólux y de Castor;
+por donde piensa mi amor
+que la fortuna me llama.
+Pero ya ¿qué tiempo aguardo,
+cuando tan bien me entendéis,
+pues dice que lo sabéis
+la amistad de don Bernardo?
+Que este mi desdén gallardo
+trujo de Sevilla aquí,
+como su hermano, y yo fui
+dichoso en que van despacio
+sus negocios en palacio,
+pero muy aprisa en mí.
+Blanca me mata, en efeto;
+yo me querría casar;
+nadie lo puede tratar
+como un amigo discreto;
+vos lo sois, y yo sujeto
+a cuanto vos concertéis.
+En dote no reparéis,
+que bien sabréis cuál me veo
+si en posesión o en deseo
+alguna prenda tenéis.
+Si no tuviera por cierto
+el fin de tan justo amor,
+sabiendo vuestro valor,
+no me obligara al concierto;
+será de Bernardo acierto,
+de Blanca será ventura;
+en vuestro valor segura,
+bien os empleáis los dos,
+
+Aparte
+
+8
+
+LUIS:
+JUAN:
+LUIS:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+
+vos en ella y ella en vos;
+a tal fe, tal hermosura.
+Y así, desde ahora os doy
+parabién, que lo que es justo
+lleva de su parte el gusto;
+conque a decírselo voy.
+De Blanca seguro estoy,
+que si os trató con desdén,
+no fué desprecio; que quien
+sabe que se ha de casar
+todo lo quiere guardar
+para cuando le esté bien.
+Allá en Sevilla tenía
+ciertos pensamientos yo,
+que la ausencia dividió,
+y de experiencia sabía
+que una amorosa porfía
+quiere presta ejecución;
+yo os traeré resolución
+tan presta, si me la dan,
+que hoy, víspera de San Juan,
+juréis de la posesión.
+Echaréme a vuestros pies.
+Dejad cumplimientos vanos.
+Dadme siquiera las manos.
+Guardaldas para después.
+Vamos, Tello.
+Mira a Inés
+con la divina Leonor.
+¿Acecharon?
+Sí, señor.
+Tello, si don Luis se casa,
+yo soy dueño desta casa.
+San Juan nos dé su favor.
+Vanse los dos
+
+LUIS:
+
+Echando al mayor mundo todo el velo
+asombra la celeste artillería
+y entre pedazos de tiniebla fría
+por donde daba luz escupe hielo.
+Mas tomando con lástima del suelo
+el hacha eterna el que los años guía
+huye el horror y resucita el día
+en el alcázar del sereno cielo.
+Así, con puros rayos celestiales
+en tanta tempestad, tu sol previenes,
+hermosa Blanca, y a mis ojos tales.
+Oh bien haya el rigor de tus desdenes;
+por que si no se hubieran hecho males
+era imposible conocer los bienes.
+Salen Doña LEONOR e INÉS
+
+LEONOR:
+LUIS:
+
+Vengo a reñirte, enojada;
+paciencia puedes tener.
+¿Tú, Leonor? Debe de ser
+porque estás hermosa, airada.
+
+9
+
+LEONOR:
+
+LUIS:
+
+Todo lo que has dicho oí
+al indiano caballero,
+que de tus bodas tercero
+agora se va de aquí.
+¿Es justo que tome estado
+un hombre de tu valor
+antes que yo? ¡Qué rigor!
+Pues es fuerza que, casado,
+esclava venga yo a ser
+de una muy necia cuñada
+que a la suegra más cansada
+sostituye por poder.
+¡Qué buen cuidado de hermano!
+De tales obligaciones
+en buen estado me pones;
+quiero besarte la mano.
+¡Qué buen marido me das
+sirviendo toda mi vida
+a una ninfa bien prendida!
+Ya la imagino detrás
+y la doncella delante,
+y decirme, muy tirana:
+"Deja, Leonor, la ventana,"
+no queriendo que levante
+los ojos a ver pasar
+caballo, coche o carroza.
+Como si una mujer moza
+se pudiese consolar
+de no ver lo que otros ven,
+habiéndose hecho los ojos
+si para llorar enojos
+para ver la luz también.
+¿Es bien que esté en mi labor,
+y que ella todo lo mire;
+y en tanto que yo suspire,
+decir muy a lo señor:
+"Qué bien a caballo va
+Sástago con sus soldados;
+lució en los toros pasados;
+bien visto en la corte está;
+bravos tudescos sacó."
+Y yo en la sala, a lo fresco,
+que labre y mire en tudesco
+mientras el otro pasó.
+Gallardos, de mar a mar,
+pasan el Duque y Marqués,
+la silla, el coche. ¿No ves
+que a pausas me ha de sangrar
+darme tentaciones tales?
+¿Sin ser mi padre me das
+madrastra? Mas no podrás;
+que hoy quiero que me señales
+monasterio y alimentos.
+Tienes, Leonor, mil razones;
+que olvidan obligaciones
+amorosos pensamientos.
+Estoy corrido de ver
+que me intentase casar;
+palabra te quiero dar
+de que no tendré mujer
+
+10
+
+LEONOR:
+
+LUIS:
+
+LEONOR:
+LUIS:
+
+INÉS:
+LEONOR:
+
+LUIS:
+LEONOR:
+
+LUIS:
+
+antes que tengas marido,
+hallando sujeto igual.
+Siendo rica y principal,
+¿tan desdichada he nacido,
+tan sin méritos estoy
+que de nadie soy mirada?
+Leonor, si alguno te agrada
+y es tu igual, licencia doy
+a que me digas quién es
+y la tengas de casarte.
+No sé cómo acierte a hablarte.
+Si lo he de saber después,
+¿no es mejor saberlo agora?
+No te turbes. ¿Qué claveles
+son ésos, que tú no sueles
+tener conmigo?
+Señora,
+habla, que es linda ocasión.
+Si te hablo claro, hermano,
+este caballero indiano
+me mira con afición,
+y crïados de su casa
+a los nuestros han contado
+que ya un hábito le han dado,
+que a esto ha venido y que pasa
+su hacienda de nueve mil
+pesos de renta, que yo
+no le había visto.
+¿No?
+No,
+que aunque el amor es sutil,
+no pudo desde su reja
+penetrar mi celosía.
+Yo no quiero, hermana mía,
+que de mi amor tengas queja;
+fuera de que la afición
+que tengo a este caballero,
+ya de mis bodas tercero
+que no es poca obligación,
+concertará fácilmente
+las vuestras con gusto mío,
+que del tuyo bien confío
+que el concierto te contente.
+Porque quien la celosía
+dijo que no penetraba,
+claro está que le miraba
+si vio que el otro le vía.
+Huyeron de una pendencia
+dos, y el uno se alabó
+de que el otro se escondió,
+juzgando por diferencia
+el huír y el esconder,
+siendo todo cobardía;
+y así tú cuando él te vía
+también le pudiste ver.
+Pero no lo examinemos;
+él vendrá y yo le querré
+por cuñado; en cuya fe
+los cuatro nos casaremos.
+De suerte que, si cansada
+
+11
+
+LEONOR:
+
+es la cuñada, Leonor,
+quedarás, si no es mejor,
+con el cuñado vengada.
+Fío de tu entendimiento
+que lo sabrás disponer.
+De golpe tanto placer,
+Aparte a INÉS
+
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+
+(¡Ay, Inés!, temo el contento,
+que también suele matar.
+¿Y Tello no tendrá aquí
+su papel?
+Dile. . .
+¿Qué?
+Di
+que le comience a estudiar.
+Dame pluma y tinta luego;
+a don Juan escribiré
+lo que ha de decir. No sé
+cómo mi poco sosiego
+no dió enojo a don Luis.
+¡Oh bienes, aunque dichosos,
+siempre venís sospechosos
+cuando de prisa venís!)
+Salen Don JUAN y Don BERNARDO
+
+BERNARDO:
+JUAN:
+BERNARDO:
+
+JUAN:
+
+Conozco la obligación.
+A mi fortuna agradezco
+quitaros a vos cuidados
+y dar a Blanca remedio.
+Sois mi amigo en que se cifra
+cuanto encareceros puedo;
+que una hermana a un hombre mozo
+es un insufrible peso;
+no habré tenido en mi vida
+mejor San Juan.
+Y yo pienso
+que hoy está de gracia toda
+la luz del zafir eterno;
+alguna conjunción magna
+de benévolos aspectos
+influye fiestas, Bernardo,
+paces, gustos, casamientos.
+Tengo por feliz auspicio
+tratar el de Blanca en tiempo
+que la fortuna mayor
+mira bien al Sol y a Venus;
+de que procede también
+que siendo en el cielo inmenso
+Júpiter, señor del año,
+propicio a reyes y a imperios,
+ganados, trigos y frutos,
+paz y prósperos sucesos,
+el Júpiter español,
+también con igual contento,
+se muestre alegre esta noche;
+
+12
+
+y como del Rey sabemos
+que tiene Dios en sus manos
+el corazón, por lo mesmo
+el buen Rey tiene en las suyas
+los corazones del reino.
+No es noble, ni hombre de bien,
+quien no se alegra, pues vemos
+que del Sol viene la luz,
+como del entendimiento
+a las acciones del hombre
+la razón; y, fuera desto,
+dijo un ángel a los padres
+de San Juan, que el nacimiento
+de su hijo había de ser
+alegre al mundo universo.
+Luego alegrarse esta noche
+es justo, como decreto
+de Dios por boca de un ángel.
+Yo entré con un caballero
+a ver el sitio, Bernardo,
+donde esta noche veremos
+tres soles en una aurora,
+que son, sin Edipos griegos,
+Rey, Reina y Infantes; mira
+todo el problema deshecho.
+Del Conde de Monterrey
+el jardín, por los extremos
+que tiene al prado ventanas,
+dispuso el Marqués Crescencio,
+por orden del Conde Duque,
+desta suerte: un teatro en medio
+con más de trescientas luces,
+que han de competir ardiendo
+entre faroles de vidrio
+con duplicados reflejos
+a veinte y cuatro blandones,
+y, juntas ellas con ellos,
+a cuantas luces se asomen
+a las ventanas del cielo
+que como es fiesta, Bernardo,
+que le ha de tener por techo
+bordarále de diamantes,
+porque no parezca negro.
+Aquí, el primero en la dicha,
+representará Vallejo
+una comedia, en que ha escrito
+don Francisco de Quevedo
+los dos actos, que serán
+el primero y el tercero,
+porque el segundo, que abraza
+los dos, dicen que ha compuesto
+don Antonio de Mendoza.
+Pintarte estos dos ingenios
+era atrevimiento en mí
+y no fuera gloria en ellos;
+porque son tan conocidos,
+que sólo decirte puedo
+que, por partir el laurel,
+dividieron el Imperio.
+Veránla Sus Majestades
+
+13
+
+dentro de un verde aposento
+que forman arcos de flores;
+porque fué discreto acuerdo
+que todo fuese jardín
+adonde todo era cielo.
+De cortinas carmesíes
+los arcos se cubren dentro;
+que para tales retratos
+estrellas quisieron serlo.
+Tendrán su lugar los Condes
+y las damas, previniendo
+añadir cuadro al jardín
+con diferente pretexto.
+Porque en vez de ayudar todo
+con tanta fiesta deshecho,
+que del jardín, con más flores
+que hay en los campos Hibleos
+hoy en la Casa del Campo
+han visto los jardineros
+seis fuentes más, y es la causa
+que, con justo sentimiento,
+lloró de envidia del Prado,
+que aun hay en jardines celos,
+diciendo que le bastaba
+ser en verano e invierno
+ciudad portátil de coches
+con inmortales paseos.
+Y, afligido, Manzanares,
+que le pareció desprecio,
+juró que habían de verle
+en julio y agosto seco.
+Hay para damas tapadas
+dos teatros, al de en medio
+casi iguales, en que habrá
+disfraces de pensamientos.
+Por lo alto, como almenas,
+del jardín en cinco puestos
+previenen músicos voces,
+eco el aire, amor, silencio,
+porque parezcan en alto,
+de verdes olmos cubiertos,
+ruiseñores al aurora
+que alternan voces y versos.
+Hecha la primer comedia,
+harán colación, y luego
+la comodidad querrá
+pedir licencia y consejo
+a la autoridad cansada,
+y volverán a sus puestos
+los Reyes y los Infantes,
+con capas de color, ellos,
+y la Reina, con valona,
+quitándole al sol el cerco,
+que es mejor que el de abaninos,
+el de diamantes tan bellos.
+Las damas lo mismo harán;
+aunque, por falta de espejos,
+se miren unas en otras,
+cristales para de presto.
+Traerán valonas y tocas,
+
+14
+
+mantos de humo y sombreros;
+que los humos, de ser soles,
+aun allí querrán tenellos.
+Dicen que a todos darán
+abanillos, y con ellos
+búcaros de olor, en quien
+vaya por agua amor ciego
+al llanto de los galanes,
+que han de mirar encubiertos
+la fiesta, y por ver si amor
+descubre también deseos.
+Sentados, hará Avendaño
+una comedia, que creo
+es retrato desta noche,
+en cuyo confuso lienzo
+tomó Lope la invención,
+y se ha estudiado y compuesto
+todo junto en cinco días.
+Mas ¿para qué me detengo,
+sí, alegremente engañado,
+de tanta fiesta, no veo
+que dejo un amante noble,
+como esperando, temiendo
+la respuesta que de vos
+también en su nombre espero,
+que, sin presunción de engaño,
+favorable os aconsejo?
+Porque no puede hallar Blanca
+más honrado caballero;
+vos cuñado, amigo yo,
+si mañana amanecemos
+ella casada, vos libre
+deste peso, yo contento
+de que servir a los tres
+es obligación y es premio.
+BERNARDO:
+
+JUAN:
+BERNARDO:
+JUAN:
+BERNARDO:
+
+JUAN:
+BERNARDO:
+
+A la mucha noticia que tenía,
+don Juan, dese gallardo caballero
+añade vuestro abono y cortesía
+cuanto gozar en la experiencia espero;
+daréle a Blanca, que es la prenda mía
+de más valor, y, agradecido, quiero
+emplear su hermosura en su nobleza,
+que la virtud es la mayor riqueza.
+Y bien se echa de ver su entendimiento
+en no querer más dote que su gusto.
+Pues yo casar a doña Blanca intento,
+fïado estoy en que le viene al justo,
+lo menos dije de lo más que siento.
+Fuera en tanta amistad término injusto
+no ser don Luis como le habéis pintado.
+De sus partes estoy bien informado.
+Ya que el caballero la ocasión me ofrece,
+de cierta condición quiero advertiros,
+con que tendrá don Luis lo que merece
+y yo, Don Juan, el gusto de serviros.
+Decid cuanto sentís, cuanto os parece
+de mi proposición.
+Para deciros
+con llaneza y verdad mi pensamiento,
+
+15
+
+como a tan grande amigo, estadme atento.
+Muchas fiestas, don Juan, a la Vitoria
+he visto entrar el cielo de una dama,
+descubriendo su sol manto de gloria
+y en nubes de humo la celeste llama;
+tanta inquietud ha puesto en mi memoria,
+que los amantes de la antigua fama,
+aunque fuesen Leandros, aunque Apolos,
+sombra no son de mis suspiros solos.
+Tal gracia, tal donaire y bizarría,
+de tanta honestidad acompañada,
+parece que en cuidado puesto había
+a la Naturaleza descuidada,
+que como tantas cosas juntas cría,
+que no se advierte que repara en nada,
+aquí tomó de espacio los pinceles,
+con puntas de jazmines y claveles.
+Cayósele una vez, don Juan, un guante;
+alcéle, y con turbada diligencia
+volví al marfil el velo, que un diamante
+rompió por no sufrir la diferencia;
+tomóle agradecida de semblante.
+¿Quién ha visto matar con reverencia?
+Pues cuando me acerqué y ella la hizo,
+en el sol de sus ojos me deshizo.
+Este día, atrevido y confïado,
+en que mi amor había conocido,
+seguí su coche y pregunté a un crïado
+su calidad, su casa y su apellido;
+al nombre de Leonor Solís y Prado,
+que respondió, dejándole florido,
+le repliqué con eso, cuando pasa
+el sol por el León el mundo abrasa.
+Llegué a su calle, y supe que era hermana
+de ese don Luis; y así, don Juan, querría
+que en estas ferias, que el amor allana,
+me dé su hermana y le daré la mía;
+con esto queda, en lengua castellana,
+hecho el concierto en justa cortesía,
+pues en el dote vengo a conformarme,
+siendo el que yo le doy el que ha de darme.
+JUAN:
+
+(¿A quién jamás sucedió
+desdicha como la mía,
+que yo mismo persuadía
+lo mismo que me mató?
+¿Que busqué el veneno yo?
+¿Que yo mi homicida fuí?
+[.................]
+¿que yo vine a concertar
+en cuánto me ha de matar?
+¿Y que las armas les di?
+Esto no fue culpa mía,
+sino de mi mala estrella;
+perdí a Leonor cuando en ella
+más esperanza tenía;
+fui como aquel que bebía
+en fuente donde mortal
+ponzoña dejó animal;
+que, como estaba sereno,
+
+Aparte
+
+16
+
+no pude ver el veneno
+en fe de beber cristal.
+Fui como rudo villano
+que, del nido codicioso
+del ruiseñor amoroso,
+puso en el áspid la mano;
+fui tahur, fuí diestro en vano,
+que aunque juegue y acometa,
+puntas tire, naipes meta,
+el que jugaba con él,
+menos sabio y más cruel,
+le dio con la misma treta.
+¿Qué haré? Pues decir no puedo
+a Don Bernardo que adoro
+a Leonor, por su decoro
+y por tener justo miedo
+de su hermano, si bien quedo
+sin esperanza; morir
+es fuerza, pues a decir
+voy que a Bernardo la dé,
+si hasta decirlo podré
+después de muerto vivir.)
+A él
+
+BERNARDO:
+
+JUAN:
+BERNARDO:
+JUAN:
+
+BERNARDO:
+
+Bernardo, pensando estuve,
+después que oí vuestro amor,
+si hablar a Blanca es mejor,
+que por eso me detuve;
+tal respeto siempre tuve
+al gusto de las mujeres.
+(¡Oh, pobre esperanza, hoy mueres!)
+Aparte
+Don Juan, gente de valor
+para materias de honor
+no admite sus pareceres;
+que aunque es bueno su consejo,
+cuando la ciega pasión
+más con la misma razón
+que con ellas me aconsejo:
+ella es el mejor espejo
+a cuyas verdades paso
+el parecer deste caso,
+y Blanca no ha menester
+darme a mí su parecer,
+basta saber que la caso.
+No más, con eso me voy;
+mas bien será que la habléis.
+Luego que os vais.
+Bien haréis.
+(¡Ay, cielos, muriendo estoy!)
+Aparte
+Con vos a la tarde soy,
+aunque es noche de San Juan;
+vos, como amante y galán,
+tendréis que hacer.
+No tendré;
+sólo esperando estaré
+si el bien que pido me dan.
+Vase don JUAN.
+
+Salen Doña BLANCA, dama y
+
+17
+
+ANTONIA, criada
+BLANCA:
+BERNARDO:
+BLANCA:
+BERNARDO:
+BLANCA:
+BERNARDO:
+
+Pues, hermano, ¿qué quería
+don Juan, que se fue tan presto?
+Dame, Blanca, albricias.
+¿Yo?
+¿De qué?
+De dos casamientos.
+¿Dos por lo menos? ¿De quién?
+Que tan inquieto te veo
+que pienso que te has casado.
+Sí, por eso estoy inquieto;
+tú lo estarás por lo mismo;
+trocado hermanas habemos
+don Luis de Solís y yo;
+don Juan ha sido el tercero,
+que le debo esta amistad
+y este cuidado le debo.
+Tú serás de don Luis
+y yo de Leonor; no puedo
+detenerme, porque voy
+a prevenir dos plateros
+para darle ricas joyas;
+porque, en firmando el concierto,
+no me gane por la mano
+don Luis, que es gran caballero,
+y querrá, con regalarte,
+vencer, galán, mi deseo.
+Vase
+
+BLANCA:
+ANTONIA:
+BLANCA:
+
+¿Hase visto igual locura?
+Sin duda ha perdido el seso
+mi hermano.
+Terrible nueva
+ha de ser para don Pedro
+el saber que te has casado.
+¿Cómo casado? Primero
+perderé, Antonia, mil vidas.
+Sale don PEDRO
+
+PEDRO:
+
+Estando a tu reja atento
+vi que salía tu hermano,
+y a pedirte albricias vengo
+de que hoy han tenido fin
+mis pleitos en el Consejo;
+que este gusto, hermosa Blanca,
+animó mi atrevimiento
+para verte donde sólo
+con el pensamiento llego.
+Agora sí que pedirte,
+Blanca, a don Bernardo puedo,
+y, casados, a Navarra,
+gustando tú, nos iremos;
+que yo sé que ha de agradarte
+la hermosura de aquel reino.
+
+18
+
+BLANCA:
+
+PEDRO:
+
+BLANCA:
+
+PEDRO:
+BLANCA:
+PEDRO:
+BLANCA:
+PEDRO:
+BLANCA:
+
+PEDRO:
+BLANCA:
+
+PEDRO:
+BLANCA:
+
+PEDRO:
+
+Verás a Pamplona, adonde
+mi hacienda y mi regimiento
+te harán de aquella ciudad,
+y por tus méritos, dueño.
+¿Qué tristeza es ésta?
+Ha sido,
+don Pedro, contrario el cielo
+a los pleitos de mi amor
+cuando propicio a tus pleitos;
+hoy mi hermano me ha casado.
+Tan presto, Blanca, me has muerto
+que parece que traías
+el arcabuz en el pecho
+y que apuntándome al mío
+diste con la lengua fuego.
+¿Casada? ¿Con quién?
+No sé.
+Aquí andaba un caballero
+sirviéndome, más preciado
+de amante que de discreto.
+Tiene una hermana que adora
+Bernardo, y han hecho trueco
+de damas, como si entrambos
+jugaran al mismo juego.
+Yo, quiere que a don Luis
+(que por extremo aborrezco)
+pase, y Leonor a Bernardo.
+De esa manera yo pierdo,
+y no menos que la vida.
+No perderás, si yo puedo.
+¿Pues habrá remedio alguno?
+Los jueces son remedio:
+que de iguales voluntades
+confirman los casamientos.
+¿Cumplirás tú lo que dices?
+Rüido siento, y sospecho
+que si no es el desposado,
+debe de ser el tercero.
+Vete, y fía de mi amor,
+que no he de tener más dueño
+que don Pedro, mientras viva.
+Mira que dicen que el viento
+lleva palabras y plumas.
+Plumas y palabras quiero
+que firmen y que confirmen
+que ser tu mujer prometo.
+Esta es noche de San Juan;
+si voy al Prado, está cierto
+que los dos iremos juntos
+donde quien pudiere hacerlo
+nos dé las manos en forma
+de promesa y juramento.
+No te detengas aquí.
+Quisiera...
+Vete, don Pedro,
+que a mi determinación
+no quiero agradecimiento,
+que te han de faltar palabras;
+y basta, que yo le creo.
+Bien dices, y pues mi alma
+
+19
+
+tienes, señora, en tu pecho,
+pregúntale allá de espacio
+lo que callo y lo que siento.
+Vanse.
+
+LEONOR:
+TELLO:
+LEONOR:
+
+INÉS:
+TELLO:
+
+INÉS:
+TELLO:
+
+Salen LEONOR, INÉS, y
+TELLO
+
+Aun no me cabe en el pecho,
+tanto bien me ha de matar.
+También el mar, con ser mar,
+es alguna vez estrecho.
+¡Jesús! ¡don Juan mi marido!
+¿y con gusto de mi hermano?
+Poco estimo el bien que gano,
+pues que no pierdo el sentido.
+Debe de ser la ocasión.
+que como don Juan le tiene,
+corre el que de allí me viene
+por cuenta de su razón.
+Y sa mesté, señor Tello,
+¿qué es lo que piensa de mí?
+Que soy tuísimo, y fui
+bella Inés, del pie al cabello.
+Para servicio de Dios
+en casándose don Juan,
+y a las Indias, si ellos van,
+iremos también los dos.
+Verás a Lima, el mejor
+fruto de española empresa;
+lima, que al rey en la mesa
+no se la ponen mejor.
+Lima dulce de Filipos,
+que no lima de Valencias,
+que no le hacen competencias
+Nápoles y Pausilipos.
+Verás el Cerro, en grandeza
+ilustre, aunque dulce y agro,
+el gran Potosí, el milagro
+mayor de naturaleza.
+Cuyas entrañas y centro
+son una imagen de plata,
+piadosa fuera, e ingrata
+a los que la rezan dentro.
+Es, por las Indias, el Rey
+envidiado de los reyes,
+que entre sus bárbaras leyes
+conserva de Dios la ley.
+En esta tierra tan nueva,
+cuyo Dios [es] el oro y plata,
+que del mundo en cuanto trata
+fueron el Adán y Eva.
+Allí las piedras se ven
+de tantas minas sacar,
+y las perlas en el mar,
+blancas y pardas también,
+como dicen los poetas,
+que son quien las ve nacer.
+¿Cierto?
+Puédeslo creer.
+
+20
+
+INÉS:
+TELLO:
+
+INÉS:
+
+¡Qué mentiras tan discretas!
+Espántome yo de quien
+no sabe que la poesía
+es moral filosofía
+y que se adorna también,
+como de sentencias graves,
+de fábulas, cuales son
+el Fénix, oposición
+del Sol, en drogas suaves.
+Dime: ¿quién oyó cantar
+al cisne? Pues desa suerte
+nacer al alba se advierte
+la perla en conchas del mar.
+¿Quién sabe que si primero
+mira al Basilisco el hombre,
+le mata, trocando el nombre?
+¿Quién, cuando corre ligero
+por el mar un galeón,
+la rémora, le detiene?
+Pues esto misterio tiene,
+hermosura e invención.
+Calla, que viene don Juan.
+Sale don JUAN
+
+LEONOR:
+
+JUAN:
+LEONOR:
+
+JUAN:
+LEONOR:
+JUAN:
+
+LEONOR:
+JUAN:
+TELLO:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+
+Señor mío, yo esperaba
+vuestra venida, que estaba
+como las perlas están
+esperando su rocío;
+mas mirad que amanecéis
+escuro, y que así pondréis
+como el vuestro el color mío.
+¡Ay de mí!
+¿Cómo ay de mí?
+¡Ay de entrambos, si por dicha
+nació de alguna desdicha
+que vos suspiréis ansí!
+Leonor mía, yo os perdí.
+¿Eso cómo puede ser
+siendo yo vuestra mujer?
+Porque jamás vi pesar
+que no viniese a pisar
+los pasos que da el placer.
+Sale el bien, y el mal detrás
+va sus estampas siguiendo.
+No os entiendo.
+Ni yo entiendo
+que pueda decirte más.
+¡Oh contento!, ¿dónde estás?
+Sin duda algún triste caso
+le obliga.
+Mil muertes paso.
+Si el mal te alcanza, ¿a qué vienes
+bien? Pero siempre los bienes
+fueron muy cortos de paso.
+Mil veces queréis matarme
+con tan declarada muerte.
+Es tan escura mi suerte,
+
+21
+
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+TELLO:
+INÉS:
+TELLO:
+LEONOR:
+JUAN:
+LEONOR:
+
+que no acierto a declararme.
+Mi hermano quiere casarme
+con vos. ¿Qué podéis temer?
+Vuestra mujer he de ser.
+¿Qué importa, Leonor hermosa,
+si, para ser envidiosa,
+es la fortuna mujer?
+Ya no puedo yo sufrillo.
+Ni yo tan grave tormento,
+pues no digo lo que siento
+y me muero por decillo.
+Ya, don Juan, me maravillo
+desos respetos cansados;
+decidme vuestros cuidados,
+que si son bienes perdidos,
+más que mataron sentidos
+suelen matar esperados.
+No sé por dónde, mi bien,
+pueda mi mal comenzar.
+Por donde suele acabar,
+que es saberse mal o bien.
+Bien dices; pero también
+es cosa fuerte, por Dios.
+¿Por qué, sintiéndola vos?
+¿Es más que la muerte fuerte?
+Es más fuerte que la muerte.
+Pues matémonos los dos.
+Yo, sí, con tanto pesar.
+¡Inés!
+¿Qué quieres decir?
+Que pienso que han de pedir
+el recado de matar.
+Mi hermano. . .
+Aquí es fuerza hablar,
+y sabrás males que, iguales,
+no lo son los más mortales.
+Cruel avariento eres.
+¿Qué harás del bien, si aun no quieres
+partir conmigo los males?
+Sale Don LUIS
+
+LUIS:
+JUAN:
+LUIS:
+JUAN:
+LUIS:
+JUAN:
+LUIS:
+JUAN:
+
+LUIS:
+JUAN:
+LUIS:
+
+Don Juan, ¿ha venido ya?
+Aquí os estaba esperando.
+Mucho os debo.
+No, es muy poco.
+¿Qué responde don Bernardo?
+Una cosa bien notable.
+¿Cómo?
+Que está enamorado
+de la señora Leonor,
+y que así podréis trocaros,
+ahorrando el dote, si sois
+a un mismo tiempo cuñados.
+Eso me viene de perlas.
+Perlas significan llanto.
+Porque siendo doña Blanca
+buena para mí, su hermano
+es bueno para Leonor.
+
+22
+
+JUAN:
+
+Y es el argumento claro;
+no hay sino trocar hermanas.
+A INÉS
+
+TELLO:
+
+INÉS:
+TELLO:
+INÉS:
+TELLO:
+
+INÉS:
+TELLO:
+
+INÉS:
+TELLO:
+INÉS:
+LUIS:
+JUAN:
+LUIS:
+
+JUAN:
+
+LUIS:
+JUAN:
+
+LUIS:
+LEONOR:
+
+(No he visto tan mal cruzado
+en cuantos bailes se han hecho;
+porque le yerran entrambos;
+que Leonor quiere a don Juan,
+y si en esto no me engaño,
+Blanca no quiere a don Luis;
+luego no es baile acertado.
+Muchas melindrosas vemos,
+y después todos los años,
+paren como unas conejas.
+Es buen año de gazapos.
+Lástima tengo a mi ama.
+Y yo mayor a mi amo,
+pues dices que ha de parir
+y él ha de morir de parto;
+pues partiéndose a Sevilla,
+morirá cuando partamos.
+¿Cuál hombre murió de amor?
+De amor, no; mas de hambre tantos
+que aun no los mata la muerte,
+que ellos se mueren de flacos;
+este año no habrá gallinas.
+¿Cómo?
+Porque los salvados
+que habían de comer comemos.
+Ya llueve el cielo milagros.
+En fin, ¿quedastes en esto?
+En esto, don Luis, quedamos,
+y hoy se harán escrituras.
+Vuestra tristeza he notado
+en que no me habláis con gusto.
+¿Qué es la causa? ¿Fáltaos algo?
+Mi casa y mi vida es poco
+para serviros.
+Estando
+alegre de vuestras bodas,
+un pliego, don Luis, me han dado
+que me obliga a que me parta
+a Sevilla a cierto caso
+de importancia, y aun de pena;
+sin esto dejo un cuidado
+que en este lugar tenía;
+que ya como amigo os hablo.
+Pésame, pues este día
+en que os conozco y os trato
+os pierdo.
+No perderéis,
+que, a tanto amor obligado,
+toda vuestra casa llevo
+en el alma.
+Mucho tardo
+en pedirte el parabién.
+¿Qué parabién, si has quebrado
+la palabra que me diste
+
+23
+
+LUIS:
+
+LEONOR:
+
+LUIS:
+LEONOR:
+LUIS:
+LEONOR:
+LUIS:
+LEONOR:
+LUIS:
+LEONOR:
+LUIS:
+LEONOR:
+
+de no casarte hasta tanto
+que me casases a mí?
+Sí la cumplo. ¿En qué te engaño?
+A don Bernardo te doy,
+con don Bernardo te caso,
+don Bernardo es caballero,
+don Bernardo es mi cuñado.
+¿De qué te quejas, Leonor?
+Deja tantos don Bernardos,
+que no le querré en mi vida,
+si como fue Veinticuatro,
+don Bernardo, de Sevilla,
+fuera Bernardo del Carpio.
+¿Por qué?
+Porque no es mi gusto.
+¿No es tu gusto? Leonor, paso.
+Pues descártate de novio,
+y pasemos entrambos
+a otra mano nuestros gustos.
+Tu padre soy.
+Ni aun mi hermano.
+Mira que está aquí don Juan.
+Por él lo que siento callo.
+Presto quedaremos solos,
+que andas muy libre.
+Yo ando
+como debo a quien yo soy.
+Vase.
+
+LUIS:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+
+Al salir Don JUAN, ásele Doña
+LEONOR
+
+Venid, don Juan.
+Oye, ingrato.
+¿Ingrato yo?
+Sí.
+¿Por qué,
+si te casas?
+
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+TELLO:
+INÉS:
+TELLO:
+
+¿Yo me caso?
+¿Pues eso quieres negar?
+¿Y puedo yo confesarlo?
+Mira que se va don Luis
+y vuelve de cuando en cuando
+la cabeza a ver si voy.
+¿Qué importa?
+¿Estás loca?
+Y tanto,
+que le diré que por ti,
+si te vas.
+No hay desengaño
+para consolar mi amor.
+Ya vuelve, suéltame.
+Aguardo
+a que me mate.
+Yo juro
+de no irme.
+¡Ay, hombres falsos!
+Inés, adiós.
+¿Lloras?
+No.
+
+24
+
+INÉS:
+TELLO:
+
+¿Pues que?
+Tomaba tabaco.
+Vanse
+
+FIN DEL PRIMER ACTO
+
+25
+
+ACTO SEGUNDO
+Salen Doña BLANCA y ANTONIA
+BLANCA:
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+
+ANTONIA:
+BLANCA:
+
+ANTONIA:
+BLANCA:
+
+ANTONIA:
+
+BLANCA:
+
+ANTONIA:
+
+Largo día.
+Temerario.
+Nunca le he visto mayor.
+Es, en secretos de amor,
+la luz el mayor contrario.
+¡Ay, noche, que siempre en ti
+libra amor sus esperanzas,
+corre, que si no le alcanzas
+no queda remedio en mí!
+Apresura el negro coche
+donde las mías están,
+ya que fuiste de San Juan,
+que es la más pública noche.
+De Europa, en el mar te baña
+sobre el amoroso toro,
+y ven con máscara de oro
+desde las Indias a España.
+Si, coronada de rosas,
+esperan otros amantes
+la aurora, yo los diamantes
+de tus alas perezosas.
+Despierta, noche, que estoy
+sin vida por ti. ¿Qué aguardas?
+Pero tanto más te tardas
+cuanto más voces te doy.
+Haste aliñado tan presto,
+que has hecho mayor el día.
+Previene amor la osadía,
+y él me ha vestido y compuesto;
+que ya mi hermano ha sabido
+que quiero salir al Prado,
+porque con esto, engañado,
+no repare en el vestido.
+¿Has avisado al cochero?
+¿A las cuatro de la tarde
+le he de avisar?
+¡Qué cobarde
+me entretiene el bien que espero!
+Todo pienso que ha de ser
+estorbo a mi pretensión.
+La misma imaginación
+no te deja entretener.
+Suspende sólo un momento
+al pensamiento el cuidado.
+Ya pienso, y lo que he pensado
+es el mismo pensamiento.
+¿Aguardaré desta suerte
+a don Pedro?
+Tal estás,
+que, con ser mujer, me das
+mis ansias de hablarte y verte.
+
+26
+
+BLANCA:
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+
+ANTONIA:
+
+BLANCA:
+ANTONIA:
+
+BLANCA:
+
+¿Tendrá mi propio cuidado
+don Pedro?
+En la calle está.
+¿Podrá verme?
+Bien podrá;
+pero no será acertado.
+¿Si vio hacer las escrituras?
+Todo pienso que lo vio.
+¿Y quieres que tenga yo
+mis esperanzas seguras?
+Yo muero, y la noche duerme,
+¡ay de mí!
+Sosiega un poco.
+Mejor podrá mi amor loco
+matarme que entretenerme.
+Toma un libro que hay aquí
+de comedias.
+¿Para qué?
+Pues si es de amores, yo sé
+que él puede buscarla en mí.
+¿No has visto aquellos afectos
+tan vivos de dos amantes?
+Pues di a los representantes
+que vengan a hurtarme afectos.
+A lo menos tú pudieras
+imitar sus relaciones
+con que tus locas pasiones,
+amorosa, entretuvieras.
+Bien dices, y tú serás
+la criada de la dama.
+Di, que ya el vulgo te aclama,
+si acción a los versos das.
+porque en muchas ocasiones
+que prevenirle pretende,
+celebra lo que no entiende
+no más de por las acciones.
+Una mañana de abril,
+cuando nueva sangre cobra
+cuanto en tierra, en aire, en agua
+o corre, o vuela, o se moja;
+cuando por los secos ramos
+nuevo humor pimpollos brota,
+en cuyas pequeñas cunas
+están los frutos sin forma;
+cuando filomenas dulces
+cantan, y piensan que lloran,
+haciendo músicos libros
+de los álamos las copas
+con achaques del color
+(invención de gente moza,
+que contra el recogimiento
+tal vez por remedio toma)
+bajé a la Casa del Campo,
+cuando la celeste concha,
+abierto el dorado nácar
+flores bañaba en aljófar.
+Llevaba por compañía
+esas dos esclavas solas,
+que por el color pudieran
+
+27
+
+servir para el sol de sombra.
+Tuve licencia de entrar,
+y entre los cuadros que a Flora
+viste de tomillo el arte
+lazos de sus verdes orlas,
+anduve mirando fuentes
+que despeñadas se arrojan
+de la altura en que se crían
+a lo llano, en que se postran.
+Las nuevas rosas cogía
+de las ramas espinosas
+tan doncellas, que aun guardaban
+la clausura de las hojas.
+Las que mostraban color
+abríalas con la boca,
+trocando aliento con ellas
+por quedarme con la copia.
+Miraba otra vez atenta
+aquella estatua famosa
+del nieto de Carlos Quinto,
+que ya los cielos coronan;
+padre de nuestro divino
+monarca y señor, que adoran
+dos mundos, por quien España
+tantas esperanzas logra,
+y aquel valiente caballo,
+que renueva la memoria
+del que llevaron los griegos
+fatal engaño de Troya,
+tan vivo, que imaginaba
+que escuchara temerosa
+los relinchos por Atlante
+de tanta grandeza heroica.
+Un obelisco de mármol
+no lejos, por unas diosas
+y sátiros vierte plata
+sobre las inquietas ondas.
+Hay unos olmos enfrente,
+que de yedras trepadoras
+han hecho eternos vestidos,
+galas de su verde pompa.
+Allí me senté cansada,
+cuando por la senda propia
+vino don Pedro a matarme,
+que yo no pienso otra cosa.
+Mira tú si son estrellas
+las que las almas provocan;
+pues se me turbó la mía
+con unas nuevas congojas.
+Aquí puedes tú pensar
+qué palabras, qué lisonjas
+me diría, cuando a un hombre
+la soledad ocasiona.
+Allí entró por las esclavas,
+esto del sol y la sombra,
+y que tras la noche negra
+venía la blanca aurora.
+Que era yo la primavera,
+y que presidiendo a todas
+las flores, las repartía
+
+28
+
+colores blancas y rojas.
+Oíle, y vi ser verdad,
+que no importa que la honra
+sea diamante, cuando hay cera
+por donde ternezas oiga.
+Como si le hubiera visto
+y concertado las horas
+que había de estar allí,
+hace que a los pies me pongan
+una toalla, dos cajas,
+ésta azahar, aquélla alcorzas.
+Y muy hallado conmigo,
+suena la música ronca
+en un cubo que traía
+su poco de cantimplora
+(y de plata, por lo menos).
+Y quitándole a una bota,
+de aquello que a un hombre afrenta
+una torneada gorra,
+enjuaga un criado aprisa
+una cristalina copa
+y me brinda el tal galán,
+como si fuera su novia.
+Para este brindis había
+una colorada lonja,
+por quien Garrobillas hace
+que gasten tantas arrobas.
+Yo atónita del suceso
+y del hombre estaba absorta,
+y comiendo por los ojos,
+aun no acertaba a la boca.
+Acabóse aquesta fiesta
+y comenzamos por otra,
+que fue pedirme una mano.
+(Tengo por cosa notoria
+que compañeros de mesa
+luego apelan a las bodas.)
+Allí le dije quién era,
+y él, la cara vergonzosa,
+retira la mano al pecho
+y el pensamiento reporta.
+Pidióme perdón, humilde,
+y perdonéle, amorosa;
+que quien ofensas desea,
+a pocos ruegos perdona.
+Y en tanto que los criados
+(hallados ya con las moras,
+que, al ejemplo de los dueños,
+fácilmente se conforman)
+de segunda mesa estaban
+atentos a lo que sobra,
+presumiendo que tenían
+para su señor señora.
+Con notable cortesía,
+me contó de su persona
+y casa, bien cuerdamente,
+una bien trazada historia.
+Allí supe de sus pleitos,
+que no era jornada ociosa
+supe su nombre, y su patria
+
+29
+
+que era, en Navarra, Pamplona.
+Con esto se iba encendiendo
+del sol la dorada antorcha;
+con que me volví a la villa,
+y él de mi casa se informa,
+donde papeles, deseos
+y terceras amorosas
+de mi voluntad le dieron
+la merecida victoria.
+Tú sabes ya lo demás.
+Este fué el principio, Antonia,
+deste suceso, a quien ya
+sólo para ser su esposa
+me falta que aquesta noche
+sus estrellas me socorran.
+Y no más, porque mi hermano
+de ver su cuñado torna.
+Amor, si eres dios, ¿qué esperas?
+Así olorosos aromas
+te sacrifiquen amantes
+que favorezcas ahora
+mi pretensión, pues es justa,
+para que yo reconozca
+que remuneras las penas
+con las merecidas glorias.
+Sale don BERNARDO
+BERNARDO:
+
+BLANCA:
+BERNARDO:
+
+BLANCA:
+BERNARDO:
+BLANCA:
+BERNARDO:
+BLANCA:
+BERNARDO:
+BLANCA:
+
+BERNARDO:
+BLANCA:
+
+En el hábito en que estás
+y en la corta bizarría
+echo de ver, Blanca mía,
+que esta noche al campo vas.
+¿Quieres hacerme un placer,
+pues que yo te dejo ir?
+¿En qué te puedo servir?
+Merced me puedes hacer.
+Vete en cas de mi Leonor,
+pues que ya somos hermanos,
+y besarásle las manos;
+paga, que es justo su amor;
+y las dos os podréis ir
+juntas esta noche al Prado.
+Tú verás con el cuidado
+que yo la voy a servir.
+Yo te daré que la lleves,
+como que es tuya, una joya.
+¡Bravo amor!
+¡Ardese Troya!
+muestra el amor que me debes.
+¿Dónde está la joya?
+Ven
+y escoge de las que traigo.
+¿Tú liberal? Mas ya caigo,
+Bernardo, en que quieres bien.
+(Los cielos me dan favor
+contra el mayor enemigo.
+¡Qué murmuras, Blanca?
+Digo
+que es muy hermosa Leonor.
+
+Aparte
+
+30
+
+BERNARDO:
+BLANCA:
+
+Dila mil cosas de mí,
+que quiero que la enamores.
+Toda esta noche es de amores.
+¡Oh, si amaneciese ansí!
+Vanse.
+
+LEONOR:
+INÉS:
+LEONOR:
+INÉS:
+LEONOR:
+
+INÉS:
+LEONOR:
+
+INÉS:
+
+LEONOR:
+
+Salen Doña LEONOR e
+INÉS
+
+No trates de consolarme,
+que es consolarme ofenderme.
+¿Adónde vas?
+A perderme.
+¿Qué piensas hacer?
+Matarme;
+que no puede remediarme
+sino la muerte en tan fuerte
+desdicha.
+Señora, advierte. . .
+No tienes que me advertir,
+que el más penoso morir
+es dilatando la muerte.
+¡Ausentarse nos bastaba
+don Juan, que es luz de mis ojos,
+sin añadir los enojos
+de una violencia tan brava!
+Si mi hermano se casaba,
+¿por qué me casaba a mí?
+Pero si a don Juan perdí,
+saldrá don Luis con matarme,
+mas no saldrá con casarme,
+puesto que haya dado el sí.
+Cánsese en locos intentos,
+más que el mar deshace espumas,
+que dagas no son las plumas
+que firman los casamientos;
+antes son los fundamentos,
+cuando no los junta amor,
+para apartarlos mejor;
+y esto de daga de hermano
+es tempestad de verano:
+poco rayo y gran temor.
+¿De qué te espantas que huya
+de verte casar don Juan,
+puesto que tan cerca están
+de que todo se concluya?
+A ser firmeza la suya,
+él viera que no podía
+vencer la muerte a la mía;
+mas como no la hay en él,
+por no matarme cruel,
+inconstante se desvía.
+Sale TELLO, de camino
+
+INÉS:
+TELLO:
+INÉS:
+TELLO:
+
+¿Quién viene aquí?
+¿No lo ves?
+¿Es Tello?
+Linda razón,
+
+31
+
+LEONOR:
+TELLO:
+LEONOR:
+
+TELLO:
+
+LEONOR:
+TELLO:
+LEONOR:
+TELLO:
+LEONOR:
+TELLO:
+LEONOR:
+TELLO:
+LEONOR:
+TELLO:
+
+Echame la bendición
+y dame, Leonor, los pies.
+¿Qué es esto?
+Partir, Señora.
+¿Partir? ¿Con tal brevedad?
+No tiene de sí piedad,
+Tello, quien se aparte agora,
+pues víspera de San Juan.
+Somos de Mantua marqueses,
+que por los ríos franceses
+la caza buscando van.
+Los tiempos son calurosos;
+pienso que Sierra Morena
+nos ha de dar mala cena,
+aunque hay conejos famosos;
+si bien no tienen igual
+con el Parque de Madrid.
+Partid, ingratos, partid,
+para qué dejéis mortal
+una mujer que engañastes.
+¿Yo, señora?
+Sí, los dos;
+que habéis de dar cuenta a Dios
+del daño que me causastes.
+De Inés vaya, mas ¿de ti?
+Tú, traidor, fuiste el primero
+pintándome caballero
+a un ladrón.
+¿Ladrón?
+Sí.
+¿Sí?
+Antes hasta el nombre tiene
+hurtado.
+Eso digo yo;
+que quien hasta el nombre hurtó
+este nombre le conviene.
+Pues yo tengo imaginado
+que fuera, Leonor discreta,
+mejor para ser poeta,
+porque fuera todo hurtado.
+Mas sé, que si visto hubieras
+lo que este pobre ha pasado,
+que restituyó lo hurtado,
+y aun lo por hurtar, dijeras.
+Ha hecho cosas crueles
+consigo, y tanto lloró,
+que pienso que jabonó
+con lágrimas tus papeles.
+No ha comido ni he podido
+hacer que tome un bizcocho;
+que hoy, Leonor, desde las ocho
+ayuna al partir Cupido.
+Allá, con razones tibias,
+dice que muere en tu fe,
+por más que le prediqué
+en un púlpito de Esquivias.
+Cuando vió traer las mulas,
+campanillas de un ausente
+(no sé cómo este accidente
+sin lágrimas disimulas),
+
+32
+
+LEONOR:
+TELLO:
+
+LEONOR:
+
+INÉS:
+TELLO:
+INÉS:
+TELLO:
+INÉS:
+LEONOR:
+
+TELLO:
+LEONOR:
+TELLO:
+LEONOR:
+TELLO:
+
+la manga desabotona
+del jubón y rompe aprisa
+la trenza de la camisa.
+No de romana matrona,
+sino de Scévola brazo,
+toma un cuchillo; yo corro
+al socorro, y el socorro
+se me volvió puntillazo,
+con que dando en un baúl
+en esta pierna, al contrario,
+un hábito trinitario
+traigo entre rojo y azul.
+Luego, por huir, topé
+con la esquina de un bufete,
+que es bufón que se entremete,
+o golpe o estorbo fué,
+y metióme en la barriga
+la esquina de tal manera,
+que dando pasos afuera
+anduve de viga en viga,
+hasta que di sobre un arca,
+adonde sin ser yo mona,
+haciéndome de corona
+vine a quedar por monarca.
+Y el cuchillo, ¿en qué paró?
+Que, sin mandarlo Avicena,
+del corazón en la vena
+con la punta se picó.
+Mojó en la sangre una pluma,
+y apercibiendo papel,
+escribió con ella en él
+de sus desdichas la suma.
+Pelícano, en fin, Leonor,
+si no cernícalo, ha sido,
+que estoy, por mal prevenido,
+baldado de cazador.
+Muestra, aquí dice: "Estas son
+hoy de mi fe las postreras
+reliquias." Alma, ¿qué esperas?
+Voy a echarme del balcón.
+¿Señora?
+¡Señora!
+Tente.
+Detente.
+¿Estás loca?
+Sí.
+Mataréme desde aquí
+luego que don Juan se ausente.
+Por eso dile que venga
+a verme, o que muerta soy.
+Espera, yo iré, ya voy.
+Pues venga, y no se detenga,
+que si en la mula le veo,
+me arrojaré del balcón.
+Caerás en el pozo airón.
+¿Qué infierno como un deseo?
+¡Oh, Hero, de gran valor!
+¡Oh Leandro, que nadando
+vas en una mula, cuando
+navegas el mar de amor! (Vase.)
+
+33
+
+INÉS:
+LEONOR:
+INÉS:
+
+Impertinente has estado
+en este necio coloquio.
+Pues escucha un soliloquio,
+de mis desdichas traslado.
+No, por Dios, que son efetos
+de menos satisfacción
+y quitarás de invención
+lo que gastes de concetos.
+Poco más o menos, sé
+cuanto me puedes decir.
+Salen Don JUAN, de camino, y TELLO
+
+JUAN:
+TELLO:
+JUAN:
+
+¿Que no me puedo partir?
+Ya no es posible.
+¿Por qué?
+
+LEONOR:
+INÉS:
+TELLO:
+JUAN:
+
+¡Jesús!
+Desmayóse.
+
+TELLO:
+JUAN:
+
+¿don Juan de camino?
+
+Llega presto.
+Buenas andan mis desdichas,
+buenos van mis pensamientos.
+¡Leonor!, ¡ah, Leonor!
+Murióse.
+¿Cómo murióse? En los cielos
+(si hay soplo que a tanto baste)
+se morirá el sol primero.
+Aquí, estrellas, que se eclipsa
+la luna deste hemisferio.
+Si soy la tierra, ¡ay de mí!,
+que vine a ponerme en medio.
+Aquí, celestiales luces,
+hermoso planeta Venus,
+que no habrá amor en el mundo
+y será su fin más presto.
+Aquí, polos, que tenéis
+de los cielos el gobierno,
+diamantes desenclavados
+de aquellos dorados techos.
+Primavera, que se mueren
+las rosas, acudid presto.
+Campos, mirad que os espera
+un luto de eterno invierno.
+Excelsos montes de nieve
+ésta falta en vuestros puertos,
+¡adónde iréis por blancura
+que encubra vuestros defetos?
+Dadme esas manos, mi bien,
+¡es posible, hermoso hielo,
+que no te despierta Fénix,
+el sol de mi ardiente fuego?
+¡Ay, elementos, haced
+llanto! El aire, por su aliento
+aromático; las aguas,
+por el cristal de su pecho;
+la tierra, por tantas flores,
+y por tanta luz, el fuego.
+Ea, ¿qué aguardáis? Venid,
+sol, estrellas, luna, Venus,
+
+34
+
+TELLO:
+JUAN:
+
+TELLO:
+
+JUAN:
+
+TELLO:
+
+JUAN:
+TELLO:
+JUAN:
+
+polos, montes, nieves, campos,
+agua, fuego tierra y vientos.
+Pues esto sufrís, cielos,
+ya el mundo se acabó, su sol se ha muerto.
+Nunca te he visto ensartar,
+con relámpagos y truenos,
+tantos desatinos juntos.
+Pues ¿qué quieres, si no veo
+señal de cielo en sus ojos,
+señal de azahar en su aliento?
+Oh, nunca pasara el mar,
+o al través diera mi leño
+en la canal de Bahama;
+fuérase a pique hasta el centro
+el navío en que venimos
+sepultara el mar mi cuerpo.
+¿Y qué hicieran a Leonor
+los demás que estaban dentro,
+viniendo a lograr a España
+sus trabajos y sus pesos?
+¡Por Dios, que había de pedir
+prestada para aquel tiempo
+su ballena al buen Madrid
+para meterme en su pecho!
+Quéjate, España, de mí,
+que a Colón he sido opuesto;
+que él trujo a España las Indias
+y yo sin Indias la dejo.
+Aquí la plata y el oro,
+para siempre se perdieron,
+las piedras y los diamantes.
+Ea, di que marineros
+y maestros y pilotos
+aprendan oficios nuevos;
+que buenas quedan las Indias,
+si quedan, por tus enredos,
+sin Cerro de Potosí,
+que vale infinitos pesos.
+Tello, yo no quiero vida;
+yo no quiero vida, Tello.
+Pues, ¿quién te ruega con ello?
+Ya no me queda remedio.
+Pues esto sufrís, cielos,
+ya el mundo se acabó, su sol se ha muerto.
+LEONOR vuelve en sí
+
+LEONOR:
+INÉS:
+JUAN:
+LEONOR:
+JUAN:
+LEONOR:
+
+¿Qué es esto, Inés? ¿Quién da voces?
+Albricias, señor, que ha vuelto
+del desmayo.
+¡Leonor mía!
+¿Quién me llama?
+Ya volvieron
+el sol, la aurora, y el día,
+cielos, a su ser primero.
+Atenta, cruel don Juan,
+a tus engaños, que han hecho
+sirenas del mar de amor
+mis desdichas y tu ingenio;
+
+35
+
+JUAN:
+LEONOR:
+
+LEONOR:
+
+JUAN:
+
+no te quise interrumpir,
+por ver si en tantos enredos
+hallaba alguna verdad,
+de tu sentimiento ejemplo.
+Pero si alguna lo ha sido,
+¿qué furia, qué movimiento
+de tu condición mudable
+te lleva a matarme, haciendo
+culpa la firmeza en mí
+con que te adoro y respeto?
+Que quien los respetos culpa,
+no quiere estimar los yerros,
+porque temerá que se hagan
+quien se ha de obligar con ellos.
+No es culpa la que procede
+de la fuerza, ni yo tengo
+más ley que tu voluntad,
+más fe que tu pensamiento.
+Dime tú, pues que de mí
+te dió el cielo el mero imperio:
+"Leonor, en esta desdicha
+este remedio tenemos";
+que si fuere atropellar
+vida, honor, hermanos, deudos,
+patria, y aun alma, aquí estoy.
+¿Es eso cierto?
+Y tan cierto
+que no hay a la ejecución
+un átomo solo en medio.
+Pues dame esa mano, y vamos
+donde firme juramento
+para siempre nos obligue,
+que ya con su manto negro
+nos viene a cubrir la noche,
+y sin ser vistos podremos
+salir, llegar y jurar;
+que depositada luego,
+en voluntades conformes,
+¿qué importan fuerzas ni pleitos?
+Inés, toma tú mis joyas,
+y cuando aquí vuelva Tello
+venid entrambos adonde
+él te enseñe y yo te espero.
+¿Es amor esta locura?
+¿Es lealtad este deseo?
+¿Es verdad esta fineza?
+Tú, como del alma dueño,
+te responde. Tello, vamos,
+que esta noche por lo menos
+sí se alabare del hurto,
+no del prestado silencio,
+que entre tanta gente y voces
+seguros, señora, iremos,
+que lo que suele estorbar,
+sirve agora de remedio.
+Si dejar por su marido
+casa y padre es ley del cielo,
+¿a quién ofendo en dejarlo,
+pues hoy al cielo obedezco?
+
+36
+
+Vanse los dos
+TELLO:
+INÉS:
+
+TELLO:
+
+INÉS:
+TELLO:
+
+Plegue a Dios que no tengamos
+mal San Juan.
+¡Ay, Tello, temo
+la condición de su hermano;
+que ser don Juan caballero
+de tanto valor, no importa,
+pues con este casamiento
+el de Blanca queda en blanco;
+fuera de no ser bien hecho
+sacarle su hermana ansí.
+No quiso hablar mi escarmiento;
+que si por lo del cuchillo
+me vi entre sus manos muerto,
+con esta ocasión ¿qué hiciera?
+¡Oh, amantes!: ¿Qué atrevimiento
+perdona vuestra locura?
+Voy a seguirlos, que pienso
+que habrá menester las manos.
+Yo, Tello, entretanto, quiero
+sacar joyas y vestidos.
+Yo vendré por ti y por ellos.
+Vase TELLO.
+
+LUIS:
+INÉS:
+LUIS:
+
+INÉS:
+LUIS:
+
+INÉS:
+LUIS:
+
+Sale Don LUIS dirigiéndose a
+alguien dentro
+
+Di, Fernando, a Marcial que saque el coche
+porque es breve la noche,
+y la puedan gozar en Soto o Prado.
+(Don Luis es éste; toda me ha turbado.)
+Aparte
+Inés, ¿adónde está Leonor, mi hermana?
+Que querría que fuese por mi esposa
+para que juntas esta noche hermosa
+(pues hace competencia al mejor día)
+comenzasen tan dulce compañía
+en músicas, en álamos y en fuentes.
+No habéis estado en eso diferentes,
+que ya, señor, tu pensamiento hurtado
+por ella fué para llevarla al Prado.
+¡Oh qué placer me ha hecho, al fin discreta!
+¿Qué paz puedo esperar que no prometa
+anticiparse a visitar a Blanca?
+Hoy le pienso añadir, con mano franca,
+dos mil escudos más.
+Eres gallardo.
+Dile, si aquí viniere don Bernardo,
+que ella y Leonor al Prado juntas fueron,
+pues tengo por sin duda que se vieron.
+Vanse, y salen don JUAN, TELLO y LEONOR, ella con
+capotillo, sombrero y enaguas
+
+JUAN:
+
+No fue Paris más contento
+a embarcarse para Troya
+con aquella griega joya
+que yo contigo me siento,
+
+37
+
+LEONOR:
+
+TELLO:
+
+ni de aquel robo violento
+de Briseida y Hesión,
+Aquiles y Telamón,
+ni Saturno con Filira,
+ni Neso con Deyanira,
+ni con Medea Jasón.
+Que aunque la gloria de verte
+en mi poder es tan alta,
+que solamente le falta,
+bella Leonor, merecerte,
+pudiera, a no ser tan fuerte
+de tu afición el valor,
+que se atreviera al honor;
+mas llegar una mujer
+a no tener que temer,
+pasa a cuanto puede amor.
+Sólo me ha causado pena
+la confusión de la gente
+atrevida e insolente,
+que por todas partes suena.
+La plaza de luces llena,
+¿cómo estará sin testigo
+donde lo es el más amigo?
+No sé qué calle seguir;
+que mal me puedo encubrir
+llevando mi sol conmigo.
+Aunque pretende el temor
+vencer la dulce osadía
+de mi amor, con más porfía
+vuelve a la batalla amor.
+Ya no temo su rigor,
+porque llegar a temer
+era dejar de querer,
+y no quiero yo dejar
+de quererte por hallar
+disculpa de ser mujer.
+Toda nuestra cobardía
+hasta los peligros es,
+teme el ser; pero después
+se convierte en valentía
+en la primer osadía
+de una mujer que hoy lloramos,
+culpadas todas estamos
+mas cuantas después nacimos,
+aquel daño que os hicimos
+con estos yerros pagamos.
+El que yo contigo espero
+como castigo me alcanza,
+que nos queréis por venganza
+de aquel engaño primero;
+pero yo, don Juan, te quiero
+(con ánimo de perder
+la vida) tanto, que el ser
+en hombre viene a mudarse,
+porque hasta determinarse
+es una mujer mujer.
+En vano el tiempo gastáis
+donde el peligro os avisa
+que en el espacio a la prisa
+vuestro remedio libráis;
+
+38
+
+JUAN:
+TELLO:
+JUAN:
+LEONOR:
+JUAN:
+TELLO:
+
+ya que en la estacada estáis,
+vencer importa el morir.
+Cuanto me puedes decir,
+Leonor, de tus obras creo.
+Por esta calle es rodeo,
+por ésta podemos ir.
+Yo pienso que favorece
+la confusión nuestro engaño.
+Sólo el conocerme es daño,
+que en tanto bien me entristece.
+Tanto el alboroto crece,
+que ya parece locura.
+Por eso mismo procura
+tanta dama, tanto coche,
+hacer que tenga esta noche
+por variedad hermosura.
+Tres mozos con capas de color, broqueles y espadas:
+OCTAVIO, MENDOZA, y CELIO
+
+OCTAVIO:
+MENDOZA:
+
+CELIO:
+OCTAVIO:
+MENDOZA:
+CELIO:
+MENDOZA:
+OCTAVIO:
+CELIO:
+MENDOZA:
+OCTAVIO:
+CELIO:
+OCTAVIO:
+CELIO:
+MENDOZA:
+JUAN:
+TELLO:
+CELIO:
+OCTAVIO:
+MENDOZA:
+
+¡Bravo altar!
+Es muy Bautista
+aquella dama, aunque pasa
+no por desierto su casa,
+según cierto coronista.
+La oración, desa manera,
+no será para casarse.
+¿No es linda?
+Con enmoñarse,
+siendo otoño es primavera.
+El vestido mucho ayuda.
+¿Nunca se ha de desnudar?
+¿Ha la de andar a buscar
+el galán si se desnuda?
+Notable pontifical
+en esta edad viene a ser
+un vestido de mujer.
+No hay en el mundo caudal
+para chapines y randas,
+pero todo lo merecen.
+Brava guerra nos ofrecen
+con las celadas y bandas.
+Allí va cierto gazmonio
+con su servicio.
+¿De quién?
+Del diablo.
+Tratalde bien,
+que puede ser matrimonio.
+¿Ah, señor, el de la ninfa?
+¿es de Esgueva o Manzanares?
+Calla, Tello, y no respondas.
+No tendrá paciencia un ángel.
+¿Es alquilada o es propia?
+¿Dónde la lleva el bergante?
+¿Cómo no lleva tendidos
+los cabellos virginales?
+Que crecen mucho esta noche,
+según los viejos romances.
+
+39
+
+OCTAVIO:
+CELIO:
+MENDOZA:
+TELLO:
+JUAN:
+TELLO:
+
+OCTAVIO:
+JUAN:
+TELLO:
+JUAN:
+LEONOR:
+JUAN:
+OCTAVIO:
+JUAN:
+LEONOR:
+
+No es de mal monte la leña,
+pues entre dos se reparte.
+¡Cómo calla el socarrón!
+¿Qué os espantáis de que calle,
+si está enseñado a callar?
+¿Esto quieres tú que pase?
+Calla, Tello.
+Ya no puedo.
+Pícaros, si ya vinagres
+salís de alguna despensa,
+cueros vivos, hombres zaques,
+oliendo a tabaco el alma
+y las narices a parches,
+¡por vida del rey de espadas,
+que si saco la de Juanes
+que ese quedará con vida,
+que huya y que no le alcance!
+¡Oh, qué gracioso mandicho
+es el que la lleva y trae!
+Tello, ¿estás loco?
+¿Esto sufres?
+¡Afuera!
+Voy a ayudarle.
+Detente, don Juan, detente.
+Déjame, por Dios. ¡Cobardes,
+haced como habláis!
+Justicia
+viene.
+¿Ya buscáis achaques?
+Triste de mí, qué he de hacer?
+¿Hay desdicha más notable?
+Si me conocen, soy muerta;
+quiero en esta casa entrarme.
+Salen ALGUACILES y gente
+
+ALGUACIL:
+JUAN:
+
+ALGUACIL:
+TELLO:
+
+ALGUACIL:
+TELLO:
+JUAN:
+TELLO:
+ALGUACIL:
+JUAN:
+
+¡Téngase al rey!
+Los que huyen
+se tengan, que es gente infame;
+que yo soy un caballero
+que estoy a negocios graves
+en la corte, y me quisieron,
+con palabras arrogantes,
+afrentar sin darles causa.
+Y él, ¿quién es?
+Soy platicante
+de caballero, que ha poco
+que navega en estos mares,
+¿Salté manda en qué le sirva?
+Vengan los dos a la cárcel.
+¿Cómo a la cárcel?
+(No veo
+a Leonor.)
+¿Salté no sabe
+que es aquesta noche libre?
+Allí va el señor Alcalde;
+vengan y hablarán con él.
+Vamos, que yo quiero hablarle,
+y sabrán vuesas mercedes
+
+Aparte
+
+40
+
+ALGUACIL:
+JUAN:
+
+la mucha que a mí me hace.
+Vengan por aquí.
+(¡Ay, Leonor!
+Luego volveré a buscarte,
+si no es tanta mi desdicha
+que me detenga o me mate.)
+
+Aparte
+
+Cuando los van llevando sale Don PEDRO y dice a uno
+dellos
+PEDRO:
+ESCRIBANO:
+PEDRO:
+ESCRIBANO:
+PEDRO:
+
+¡Ah, caballero, qué es esto?
+Cuchilladas, disparates
+de esta noche.
+¡Era a mi puerta!
+¿Mandáis más?
+Que Dios os guarde.
+Cansado de esperarte,
+hermosa Blanca, de tu calle vengo,
+y no pudiendo hallarte,
+apenas alma ni esperanza tengo.
+¡Ay Dios! si te ha forzado
+tu hermano al casamiento concertado?
+Es este pensamiento,
+forzado soy a despedir la vida,
+que si del casamiento
+cumpliste la escritura prometida
+y a la mía faltaste,
+al umbral de la muerte me dejaste.
+Música y grita suena;
+todos se alegran, todos son dichosos;
+yo, sólo, en tanta pena,
+no puedo alzar los ojos envidiosos;
+que no hay mayor desdicha
+que no tener entre dichosos dicha.
+Salen con guitarras y sonajas y canten
+así:
+
+MUSICA:
+
+"Salen de Sanlúcar,
+rompiendo el agua,
+a la Torre del Oro
+barcos de plata.
+Verdes tienes los ojos,
+niña, los jueves,
+que si fueran azules,
+no fueran verdes.
+Salen de Valencia,
+noche de San Juan,
+dos pescadas saladas
+al fresco del mar."
+Éntrense en grito y regocijo, y diga Don
+PEDRO
+
+PEDRO:
+
+Envidio el contento y gusto
+
+41
+
+con que estos cantando van.
+¿Que en la noche de San Juan
+sólo yo tenga disgusto?
+Yo sólo, amor, siempre injusto,
+por tus mudanzas indigno
+de tener nombre divino,
+dudoso entre el bien y el mal,
+del contento general
+soy en Madrid peregrino.
+Ya no tengo qué esperar,
+que en esta nueva mudanza
+aun no quiere la esperanza
+acompañar mi pesar.
+Ya quiere el alba llorar,
+pues ¿qué quieren mis desvelos?
+Ya sus cristalinos hielos
+ensartan perlas en flores,
+o los fingen mis temores,
+que vuelven los cielos celos.
+Quiero en mi posada entrar,
+aunque sé que no a dormir;
+que no haré poco en vivir
+si Blanca se ha de casar.
+Aquí siento suspirar;
+parece en la voz mujer.
+¿Si ella vino? Puede ser
+que me aguarde con temor.
+La honra te vuelvo, amor,
+y conozco tu poder.
+
+LEONOR:
+PEDRO:
+
+LEONOR:
+
+PEDRO:
+
+LEONOR:
+
+PEDRO:
+LEONOR:
+
+¿Eres tú, mi bien? Pues calla,
+no debe de ser. ¿Quién va?
+Una mujer.
+Ella es.
+¿Ha mucho, mi bien, que estás
+esperándome? Perdona,
+que con amor pude errar
+en ir a buscarte. Dame
+los brazos, y entre, que ya
+mi casa te espera, dueño.
+Y yo estaba, de esperar,
+sin vida, Teneos, ¡ay, Dios!,
+que ni soy la que esperáis
+ni vos sois lo que yo espero.
+Decís muy bien: perdonad.
+¿Pero cómo estáis aquí?
+Que he venido a recelar
+que alguna traición me han hecho.
+Advertid que os engañáis.
+Bien podéis estar seguro
+que una airada tempestad
+de desdichas me ha traído.
+No puedo deciros más.
+¿Quién está con vos?
+Si digo,
+señor, quién conmigo está,
+no es mucho que imaginéis
+el peligro que ignoráis;
+porque son tantos mis males,
+que por ventura podrán
+
+42
+
+PEDRO:
+LEONOR:
+
+PEDRO:
+
+invisibles basiliscos,
+sólo mirando matar.
+Huid de verme y de hablarme,
+que son veneno mortal
+los males que fueron bienes.
+Dejad los ojos, y hablad.
+Quieren divertir mi pena
+con hablar y con llorar,
+cual a gusano de seda
+en truenos de tempestad,
+hacen al alma ruido
+porque no sienta mi mal.
+Con un caballero, a quien
+debo honesta voluntad,
+iba de la mano. ¡Ay, triste,
+cómo es imposible hallar
+a contradicción divina
+humana seguridad!
+¡Qué fiesta habrá sin desdicha!
+¡Qué contento sin azar!
+¡Qué gusto sin su enemigo!
+¡Qué bien sin dificultad!
+Criado y señor parecen,
+juntos siempre, el bien y el mal.
+Nunca el bien delante viene
+sin venir el mal detrás.
+Acuchilláronle aquí,
+pienso que muerto le habrán
+unos hombres que tenían
+por alma su necedad.
+Es privilegio del vulgo,
+en estando junto, hablar
+con libertad, e imposible
+castigar su libertad.
+Aquí me entré de temor,
+y cansada de esperar
+lloré perderle y perderme,
+porque todo ha sido igual.
+Pues en el talle y el traje
+ser caballero mostráis,
+amparad una mujer,
+ya por ser este lugar
+donde la halláis vuestra casa,
+ya porque obligado estáis
+a vuestro respeto mismo,
+que no le podéis negar,
+a título de ser noble,
+la obligación natural.
+Extraña desdicha ha sido
+la vuestra; mas puede os dar
+consuelo que no es la mía
+a la vuestra desigual.
+A nuestros perdidos dueños
+podemos los dos llorar,
+el mío, porque no viene,
+y el vuestro, porque se va.
+Yo vi llevar unos hombres
+presos; pienso que serán
+los que decís; buenos iban,
+bien os podéis sosegar.
+
+43
+
+LEONOR:
+
+PEDRO:
+
+LEONOR:
+PEDRO:
+LEONOR:
+PEDRO:
+
+Sólo de vos saber quiero
+el consejo que tomáis
+para que pueda serviros,
+que vuestro término da,
+traje y discreción, indicios
+de ser mujer principal.
+Mirad si os está mejor
+que a vuestra casa volváis,
+o queréis que venga el día
+si tenéis peligro allá;
+pues no es posible que tarde,
+que ya parece que dan
+de la risa del aurora
+aquellas nubes señal.
+Y parece que los montes
+lo verde argentando están
+por la espalda de la noche
+líneas de plata oriental.
+Aquí tendréis aposento,
+criadas honradas hay;
+mozo soy, no soy casado,
+no habrá celos, no temáis;
+aun no he vendido lo libre,
+si bien lo quise emplear
+en este bien que me falta.
+Dios sabe si volverá.
+Yo iré a la cárcel mañana
+a saber de ese galán,
+tan dichoso como yo,
+si perdió lo que lloráis;
+que por la misma fortuna
+bien nos podemos juntar,
+pues caminos y desdichas
+siempre hicieron amistad.
+Aquí será bien quedarme,
+si vos licencia me dais,
+hasta que sepáis mañana
+si fué mi temor verdad.
+Que cuando sepáis quién soy,
+mi nombre y mi calidad
+(que agora es fuerza encubriros),
+yo sé que no os pesará
+de haberme dado favor
+Bastantes indicios dais.
+Caballero soy, segura
+vuestro honor podéis fiar
+de mi nobleza y mi celo.
+Conozco la voluntad
+con que ayudáis mi fortuna
+y mi temor animáis.
+Extrañas cosas suceden
+una noche de San Juan.
+(¡Ay, don Juan!)
+Aparte
+(¡Ay, Blanca! ¡Ay, cielos! Aparte
+¿Cómo es posible esperar
+que amanezca con más bien
+quien anochece tan mal?)
+
+44
+
+FIN DEL SEGUNDO ACTO
+
+45
+
+ACTO TERCERO
+Salen Don JUAN y TELLO con las espadas en las
+manos
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+
+¿Qué no podrá el dinero?
+Gran fuerza tiene el oro.
+Es caballero.
+Y hijo de buen padre,
+pues que le engendra el sol; que humilde madre
+nunca fué de importancia.
+Toda aquella arrogancia
+templaron veinte escudos.
+Buenos amigos son, negocian mudos.
+Qué mal San Juan tuviera estando preso
+y de Leonor temiendo un mal suceso.
+Aun no sabes lo que es en una estufa
+pulgas de por San Juan; no hay catalufa
+como ponen un cuerpo desdichado
+todo de tomadillos perfilado;
+pues chinches, gente sorda,
+que a nubarrones la pespunta y borda.
+Aquí quedó Leonor.
+No hay puerta abierta,
+que aun el alba bosteza y no despierta.
+Entra en ese portal.
+No hay más.
+¿Qué aguardas?
+Cuatro mil escopetas y alabardas
+son menester para un portal de noche;
+deja que pase este cantante coche.
+Música lleva al Prado.
+Los tres parecen gatos en tejado.
+Conozco aquel romance y quien le hizo.
+El tiplazo es lechón con romadizo.
+Serenos de Madrid causan catarro.
+El bajo ha sido jarro
+y agora tiene muermo,
+la tercera cruel canta de enfermo.
+Vuelve a mirar, que ya pasaron; mira
+si habla, si suspira,
+que estoy perdiendo el seso.
+Si Leonor presumió que estabas preso,
+sola se volvería.
+¡Ay, dulce prenda mía!
+¿Qué le habrá sucedido?
+Si a su casa volvió, yo soy perdido.
+En todo esto no veo
+sino sombras, señor, de tu deseo.
+¡Ay, infeliz de mí! Que el bien tenía,
+y como quien dormía
+y soñaba tesoro,
+que las manos bañó de plata y oro,
+siendo fingidas sombras los diamantes,
+que al aurora volaron inconstantes,
+
+46
+
+TELLO:
+JUAN:
+TELLO:
+JUAN:
+TELLO:
+
+y despertó al ruido
+o el propio nombre le tocó el oído;
+así me siento, y solo y triste veo
+la burla de mi amor y mi deseo;
+que dicha en desdichado
+es sueño que nació de bien pasado,
+que lo que vió de día
+de noche le pintó la fantasía.
+Ya, ¿qué piensas hacer?
+Morirme, Tello.
+Eso es muy bueno para dicho; hacello
+es muy dificultoso.
+¿Qué gente es ésta?
+Estruendo bullicioso
+de gente que no ayuna
+del gran Profeta a la bendita cuna;
+pues como hablaba, mudo, Zacarías,
+todos quieren hablar en tales días.
+
+Salgan por una puerta FABIO, LEANDRO, y FENISA, de
+noche de San Juan, y por otra LEONARDO y RODRIGO, guarnecidos los
+sombreros y ferreruelos de fajas de papel, y LUCRECIA,
+dama
+LUCRECIA:
+FENISA:
+LEANDRO:
+LEONARDO:
+LUCRECIA:
+FABIO:
+LEANDRO:
+
+FABIO:
+FENISA:
+
+TELLO:
+RODRIGO:
+FABIO:
+RODRIGO:
+
+LEANDRO:
+JUAN:
+TELLO:
+
+Las vayas han de ser sin pesadumbre.
+Este día, señores, es costumbre
+alegrarse no más y no enojarse.
+Para reñir, mejor es acostarse.
+No te enojes, que es uso de la Corte;
+si no te han dicho cosa que te importe.
+¿Qué había de decirme aquella dama,
+si sabe que sé yo cómo se llama?
+Buena invención la de la plata.
+Buena,
+con el papel, que más que plata suena;
+que ya vale el papel como la plata;
+tanto gastan procesos y poetas,
+que libranzas, por Dios, que andan secretas.
+Uno conocí yo, y era tan franco,
+que trocaba lo escrito por lo blanco;
+pero no pudo hallar quién lo trocase.
+¡Que noche de San Juan se empapelase
+y viniese, atrevido,
+de ciruela de Génova vestido
+un hombre con sus barbas y bigotes!
+Al Prado van los dichos matalotes.
+Oyen, señores míos, poco a poco,
+que me voy enojando, y pico en loco.
+Pues conmigo te metes
+figura guarnecida de cohetes.
+Pues lacayo que jura de cochero
+y consultado está de despensero,
+dos cosas más corrientes estos días
+que testimonios y mentiras frías,
+caballero te finges, disfrazado?
+¡Oh qué lindo borrego trasquilado!
+Llega, Tello. ¿Qué aguardas?
+Caballeros,
+¿han visto cierta dama, cuyas señas
+
+47
+
+RODRIGO:
+
+TELLO:
+LUCRECIA:
+
+LEONARDO:
+FABIO:
+TELLO:
+RODRIGO:
+FABIO:
+LUCRECIA:
+LEANDRO:
+FABIO:
+
+son capotillo y plumas y buen aire,
+que dejaron aquí sus escuderos
+por ver una pendencia?
+¡Qué donaire!
+¿Fueran más frías dos cansadas dueñas
+con sus antojos, tocas y rosario?
+Pues hombre que pregona letüario
+más súbito que copla de repente.
+¿Tú vienes a dar cómo a tanta gente?
+De veras hablo y con disgusto vengo,
+que no soy hombre que ese oficio tengo.
+Quedo, que ya está el cómo declarado.
+Su matrimonio trascartón le ha dado;
+señor mío, si habló con cerbatana,
+en la parroquia la hallará mañana
+colgada de la pila, como llave,
+si el médico de Cádiz no lo sabe;
+que con sus almanaques
+dice que habrá pescado en los Alfaques,
+y los vende firmados,
+que dice que hay pronósticos hurtados.
+Jure de gamo.
+Jure de venado.
+Hidalgos, bueno está, quedo, con tiento.
+¿Valiente? ¡Oh qué gracioso disparate!
+Contradicción implica.
+No se trate
+desta materia más; vamos al Prado.
+Jure de gamo.
+Jure de venado.
+Dándole grita, se entren
+
+TELLO:
+JUAN:
+
+TELLO:
+
+JUAN:
+
+TELLO:
+
+¿No has escuchado la grita?
+Estoy por desesperarme;
+todo es perderme y matarme
+cuanto mi amor solicita.
+Tello, tú fuiste la culpa
+de aquella injusta prisión,
+que ayudarte en la cuestión
+fué de mi culpa disculpa.
+¿Qué importa noche como ésta
+sufrir disparates locos?
+Fueron muchos, que a ser pocos
+yo los pasara por fiesta.
+Aquí no hay más que esperar,
+si a casa volvió Leonor.
+Que aun el día (¡oh gran rigor!)
+no me ha venido a ayudar.
+Algún amante que tiene
+en brazos el bien que adora
+detiene, Tello, al aurora
+con hechizos, pues no viene.
+Que habiendo, a mi parecer,
+o a mi amor se lo parece,
+dos mil años que amanece,
+no acaba de amanecer.
+Estar aquí no es partido,
+que no es aguja Leonor
+
+48
+
+JUAN:
+TELLO:
+JUAN:
+
+para buscarla, señor,
+donde la habemos perdido.
+Vamos a casa, que creo
+que allí la habemos de hallar.
+¿Quién podrá, Tello, esperar
+los años de su deseo?
+Un hombre sale, señor,
+de aquella casa de enfrente.
+No habrá cosa que no intente
+por templar mi loco amor.
+Sale don PEDRO
+
+PEDRO:
+
+Sueño que fuiste como dulce empeño,
+de los cuidados que tu sombra asiste,
+¿Cómo para cuidados, sueño fuiste,
+si nunca diste a los cuidados sueño?
+Tú, que de cuanto vive, fácil dueño,
+las mayores tristezas suspendiste,
+¿por qué me dejas desvelar de triste
+sin ver mis ojos tu sabroso ceño?
+¡Oh muerte mentirosa en perezosos
+y muerte verdadera en desvelados!;
+bien podemos llamarte los quejosos
+amigo falso que huye en los cuidados,
+pues te vas a dormir con los dichosos
+y dejas desvelar los desdichados.
+
+JUAN:
+
+Déjame que le hable yo,
+que tu poca dicha tienes,
+que puede ser que haya visto
+a Leonor.
+¡Qué yerro emprendes!
+Dos hombres he visto allí;
+gente segura parece;
+si requiebran en la calle,
+saber por ventura pueden
+si Blanca ha llegado aquí.
+¡Ah, caballeros! no tienten
+vuesas mercedes la espada;
+de paz soy, seguros lleguen.
+Antes hablaros quería
+por vecino, cortésmente,
+desta calle.
+Y yo, señor,
+por si acaso os entretiene
+alguna destas ventanas,
+cuyos dueños lo merecen.
+Aguardo desde las diez
+cierta dama, y como duerme
+tan mal amor, me he vestido;
+como si el aire pudiese
+templar imaginaciones,
+aunque se templase en nieve.
+Suplícoos que me digáis
+si la habéis visto, que suelen
+volverse cuando hay testigos,
+porque la busque y no espere,
+y por despejar la calle
+
+TELLO:
+PEDRO:
+
+JUAN:
+PEDRO:
+
+49
+
+JUAN:
+
+PEDRO:
+
+JUAN:
+PEDRO:
+JUAN:
+TELLO:
+
+JUAN:
+
+TELLO:
+
+JUAN:
+TELLO:
+JUAN:
+
+si os hago estorbo.
+(¡Que encuentre
+un mismo amor dos cuidados!
+Fábula, por Dios, parece.)
+A preguntaros lo mismo
+una desgracia me atreve,
+que acuchillando unos hombres
+perdí una dama, en que pierden
+tanto mi vida y mi honor
+que uno acaba y otro muere.
+No he visto lo que esperáis,
+de que es justo que me pese;
+si lo que espero habéis visto,
+oíd las señas que tiene.
+No hay para qué las digáis.
+(Hermano o marido es éste;
+la mujer peligro corre;
+discreción será que niegue.)
+Caballero, yo quisiera
+que en esta ocasión presente
+fuéramos los dos dichosos
+y que con palabras breves
+diéramos el uno al otro
+de lo que buscando viene
+las nuevas y las albricias.
+Dios os guarde y os consuele.
+Dios os consuele y os guarde.
+Vamos, Tello, que mi muerte
+es imposible excusarse.
+Cuando, solícito, quieres
+saber, señor, de tu dama,
+bella Leonor, ángel, fénix,
+este socarrón amante,
+muy necio e impertinente,
+te pregunta por la suya;
+mala noche de mujeres;
+menester es pregonallas.
+Pues diga amor, quién supiere
+de Leonor, de la hermosura,
+del sol, del ave celeste,
+de la discreción más rara,
+del gusto más excelente,
+del mejor despejo y brío
+que hoy en la corte se prende.
+Con cuyo pie de tres puntos
+cuantas han nacido mienten
+vuélvala luego a su dueño,
+que si a su dueño la vuelve
+le darán de albricias almas.
+Buenas nuevas si las creen;
+pero sólo te suplico,
+porque las señas no yerren,
+que a los tres puntos del pie
+añadas siquiera siete.
+¿Agora donaires, Tello?
+Perdona.
+¡Cielos, tenedme!;
+que en hallarla o no la hallar
+están mi vida o mi muerte.
+
+Aparte
+
+Aparte
+
+50
+
+Vanse don JUAN y TELLO
+PEDRO:
+
+Qué yerro pudiera ser
+si éste, como he sospechado,
+es marido que hacia el Prado
+topó su propia mujer,
+que llevaba algún galán,
+y entonces le acuchilló,
+dársela, muy necio yo.
+Mejor sin ella se van
+hasta que mañana el día
+me diga lo que he de hacer.
+Salen Doña BLANCA y ANTONIA con rebozos y
+sombreros
+
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+PEDRO:
+BLANCA:
+PEDRO:
+
+BLANCA:
+
+PEDRO:
+
+El porfiar es vencer.
+Grande ha sido mi osadía.
+¿No había de estar aquí
+agora don Pedro?
+¿Quieres
+que llame?
+Sí.
+Dos mujeres,
+(¡ay, cielos!), vienen allí.
+Ellas son. ¡Blanca!
+¡Señor?
+¡Cómo me has tenido en calma,
+que en ir y venir el alma
+está sin pulsos amor!
+Mas como cierra la rosa
+a la noche el tornasol
+y después saliendo el sol
+vuelve a salir más hermosa,
+así yo de tu presencia,
+Blanca, al aurora salí
+con la vida que perdí
+en la noche de tu ausencia.
+¿Dónde has estado? ¿Qué has hecho?
+Al instante que salía,
+dándome amor osadía
+alma de mi tierno pecho,
+dos amigas en su coche
+me hicieron por fuerza entrar,
+donde más que pasear
+fue llorar toda la noche.
+Volví tarde, donde hallé
+que mi hermano, alborotado,
+con don Luis me había buscado;
+tu cuidado imaginé,
+y con ánimo de quien
+no tiene más bien que a ti,
+segunda vez lo emprendí,
+y al fin me ha salido bien.
+No es hora, señora mía,
+de pleitos ni de escrituras;
+entrad a esperar seguras
+este perezoso día,
+
+51
+
+BLANCA:
+PEDRO:
+ANTONIA:
+BLANCA:
+ANTONIA:
+BLANCA:
+ANTONIA:
+
+que tiene dentro de sí
+más años que el mundo tiene.
+Mi honor a tus manos viene.
+Ese mismo es alma en mí.
+Mira lo que haces, señora.
+Antonia, si una mujer
+no se dejase vencer,
+¿quién puede?
+Un hombre que llora.
+Yo conozco mi firmeza.
+Tú saldrás desa fatiga
+las manos en la barriga
+como otros en la cabeza.
+Vanse.
+
+LEONOR:
+
+Doña LEONOR se pone en lo
+alto
+
+Salid por este balcón,
+pues que no salís del pecho,
+llamas de amor, que habéis hecho
+incendio mi corazón;
+respire como infición
+este aposento, y no impida
+que viva el alma encendida;
+dad lugar a las que quedan
+para que las otras puedan
+ir conservando la vida.
+¿Qué pajarillo el olvido
+de la noche así culpó
+cuando el aurora esperó
+sobre las pajas del nido?
+¿Qué caminante perdido?
+¿Qué marinero turbado,
+qué desabrido casado
+más tarde la vino a ver
+durmiendo de su mujer
+en la galera forzado?
+Qué poca dicha, don Juan,
+tuvo contigo mi amor,
+si bien a mi ciego error
+culpa mis desdichas dan.
+Preso estás, a verte van
+mis suspiros, mientras sigo
+tu prisión; permite, amigo,
+que allá se queden en ti;
+porque no haya cosa en mí
+que no esté presa contigo.
+Tres caballeros, de noche: Don ALONSO, Don
+FÉLIX, y Don TORIBIO
+
+ALONSO::
+FÉLIX:
+TORIBIO::
+ALONSO::
+FÉLIX:
+TORIBIO:
+
+¡Qué necio ha estado el Prado!
+Tan pícaro sin olmos ha quedado
+que nadie acierta a hablar por descubierto.
+De los bailes, don Félix, vengo muerto.
+Tristes danzas de España, ya murieron.
+Dios las perdone, gente honrada fueron.
+¿Qué se hicieron gallardas y pavanas,
+
+52
+
+ALONSO:
+FÉLIX:
+
+ALONSO:
+FÉLIX:
+
+ALONSO:
+FÉLIX:
+ALONSO:
+
+FÉLIX:
+ALONSO:
+FÉLIX:
+TORIBIO:
+ALONSO:
+
+pomposas como el nombre, y cortesanas?
+Ya se metieron monjas.
+Cosa extraña
+que ya todas las danzas en España
+se han reducido a zápiro y a zépiro,
+a zípiro y a ñápiro.
+Por Dios, que es gran donaire,
+no tenéis que decir.
+Sí, pero el aire,
+la gala y bizarría
+con que el mayor señor danzar podía
+y los pies de gibaos,
+y alemanas y brandos en saraos,
+¿por qué se han de dejar de todo punto?
+Hermano, porque todo el mundo junto
+se vuelve ya, como el vestido, viejo;
+lo de atrás adelante.
+Mal consejo.
+La novedad, don Félix, siempre agrada,
+sea en razón o en sinrazón fundada.
+Mirad que aun la poesía
+no habla ya la lengua que solía.
+¿No habéis visto la máquina estrellada
+cuando la noche muda y enlutada,
+natural de Chinchón y de pulgares,
+teñidos con hollín los aladares
+saca medio dormida el negro coche?
+No habéis visto en las manos de la noche
+el nuevo infante día
+nacer dando alegría
+a las aguas y flores?
+¿No habéis visto después cantar amores
+los dulces pajarillos
+al esconderse los armados grillos
+entre los alcaceres?
+¿No habéis visto con naguas las mujeres
+sin anchos verdugados y abaninos
+y los chapines de bordados finos,
+que fueron en sus madres de badana?
+¿No habéis visto espumosa la mar cana
+sorberse naves como huevos frescos?
+¿No habéis visto en jubones y grigüescos
+tanto algodón que aun el andar reporta?
+Pues si no lo habéis visto, poco importa.
+¡Qué notable frialdad!
+Usase ahora.
+¿No véis que allí suspira cierta mora?
+Sin duda es Melisendra, caballeros,
+que aguarda a don Gaiferos.
+¡Oh tú, doncellidama,
+si sales a saber cómo se llama
+el que ha de ser tu esposo
+y la oración has hecho al glorioso
+Bautista, santo de profeta palma,
+sábete que ha de ser Juan de buen alma,
+y que por lo agarrado
+primero que Mendoza será Hurtado?
+Échele una cadena
+
+53
+
+LEONOR:
+ALONSO:
+TORIBIO:
+FÉLIX:
+ALONSO:
+FÉLIX:
+LEONOR:
+ALONSO:
+LEONOR:
+ALONSO:
+TORIBIO:
+ALONSO:
+
+TORIBIO:
+ALONSO:
+
+Pues tome por la nueva esa cadena.
+Hola, don Félix; ¡vive Dios! que es buena,
+que pesa y huele al oro y no (es) azófar.
+¡Peregrino suceso!
+Mostrad. ¡Buena, por Dios!, dícelo el peso.
+Métase el alba y llore allá su aljófar,
+que se deshace en flores y azucenas.
+¡Oh, aurora, lloradora de cadenas!
+Si acaso no eres duende
+y es mañana carbón cuando la vende.
+No hará, que me ha tocado
+en lo vivo del alma, aquello Hurtado.
+¿Y el Juan también?
+No sé; váyase ahora,
+que hay peligro en la calle.
+Adiós, señora.
+El médico de Cádiz no dijera
+con su firme pronóstico que fuera
+más verdadero que éste.
+Vuesa merced se acueste
+en sábanas de Holanda,
+que yo me voy a hacer la zarabanda.
+Y tantos eslabones como tiene
+esta cadena el buen Hurtado pene
+años en que la sirva y la requiebre.
+Mas que nos ha de dar gato por liebre.
+Así se le volvieran, y tan buenas,
+a la cárcel de corte las cadenas.
+Vanse. Salgan Doña BLANCA, Don PEDRO y
+ANTONIA
+
+PEDRO:
+BLANCA:
+
+PEDRO:
+LEONOR:
+
+BLANCA:
+
+Detente, señora mía.
+¿Que me detenga? Ya es tarde.
+¿Para tales sinrazones,
+vil caballero, me traes
+con tanto engaño a tu casa?
+Plega al cielo que me mate
+un rayo si tengo culpa.
+Aquel caballero sale
+con una dama riñendo;
+atenta quiero escucharle;
+por dicha tengo la culpa.
+Persuadirme, ingrato, es darme
+más pena de la que tengo.
+¿Era yo mujer infame,
+que teniendo en casa amiga,
+con engaños semejantes,
+con lágrimas, con papeles,
+con finezas, con jurarme
+que era de tu pecho el alma
+y de tus venas la sangre,
+me obligas a que tan loca
+hermano tan noble trate
+con término tan indigno
+de mujeres principales?
+No importa, que al fin, ingrato,
+no tienes de qué alabarte,
+que el honor que no ha caído
+
+Aparte
+
+54
+
+PEDRO:
+
+BLANCA:
+
+PEDRO:
+
+BLANCA:
+
+es fácil de levantarse.
+Sola una mano me debes
+sobre juramentos graves,
+y yo tengo quien me vengue
+si no tuve quien me guarde.
+¿Tú caballero? ¿Tú noble?
+Señora, mientras no amaines
+las lágrimas y las voces,
+¿cómo puedo asegurarte
+de que no he faltado un punto
+a obligaciones tan grandes?
+Oye, por Dios, advirtiendo
+que no pudiera un alarbe
+hacer la maldad que dices.
+¿Pues yo no sentí quejarse
+y llorar una mujer
+otro aposento adelante
+de donde la cama tienes?
+¿Pueden ser quejas iguales
+sino de tales traiciones?
+Que no es justo que se llamen
+celos tan viles desprecios,
+que celos, aunque mortales,
+son de lo que se imagina,
+que no de lo que se sabe.
+Demás de que ya me ha visto;
+pero porque no la mates,
+por los suspiros me escribe
+su desdicha y tus maldades.
+Y plegue a Dios que no sea
+mujer propia que te canse,
+si puede haber en el mundo
+tiranos que así las traten.
+Señora, negar no puedo
+que como yo te esperase,
+siglos haciendo las horas,
+años los breves instantes,
+esta mujer escondida
+hallé, saliendo a buscarte,
+en lo escuro desta puerta;
+pidióme, que la amparase;
+es mujer, soy hombre, pudo
+lastimarme y obligarme.
+Yo no sé si es la ocasión
+marido, galán o padre;
+ella nos dirá el suceso
+y podrá desengañarte.
+Que mal pudiera ser yo
+villano e inexorable
+a lágrimas de mujer,
+y más si de causa nacen
+como la que miro en ti,
+fuera de ser como un ángel,
+que si llorando una fea
+no hay lástima que no cause,
+¿qué hará una mujer hermosa,
+que parece que se caen
+de dos estrellas del cielo
+sobre claveles, cristales?
+¡Oh qué extremada pintura!
+
+55
+
+PEDRO:
+BLANCA:
+PEDRO:
+BLANCA:
+PEDRO:
+
+BLANCA:
+PEDRO:
+
+BLANCA:
+PEDRO:
+BLANCA:
+LEONOR:
+BLANCA:
+LEONOR:
+
+BLANCA:
+LEONOR:
+
+BLANCA:
+PEDRO:
+
+¿No pudiera retratarse
+esta mujer sin claveles?
+Parece que versos haces.
+¿Un ángel a tales horas
+quieres, don Pedro, que hable?
+Para tales jerarquías
+es muy humilde mi traje;
+iréme a mi casa agora
+y mañana por la tarde
+vendré a hacerle una visita.
+Debes de querer matarme.
+Tú entretanto será justo
+que consueles y regales
+ángel de tales claveles.
+Mátame bien, no te canses.
+Muy santo debes de ser,
+reliquias pueden cortarte,
+pues ángeles te visitan.
+Ahora bien, entra y no aguardes
+a que siendo ya de día
+alguna persona pase
+que te conozca.
+¿Estas loco?
+¿Yo entrar, yo verte, yo hablarte?
+Mira que yerras en esto.
+Pues primero que te cases
+me pides injustos celos,
+conque puedo imaginarte
+de condición insufrible.
+No hayas miedo que te enfade.
+Queda con Dios.
+No seas necia.
+Voy a que alguno me ampare,
+aunque sin ser ángel llore
+sobre claveles cristales.
+¡Ah, dama, señora,; ah, reina!
+¿Quién es?
+Quien no es bien que cause
+injustamente estos celos
+entre tan firmes amantes.
+Hacedme merced de entrar,
+porque no por ampararme
+es bien que ese caballero
+os pierda; entrad y escuchadme.
+Desde ese balcón podréis
+decir quién y qué os trae
+a tal hora y en tal noche.
+Obligaréisme a que baje,
+porque no son mis desdichas
+para echadas en la calle.
+Entrad y sabréis quién soy.
+Vuestro término es bastante
+a vencerme; voy a oíros.
+Quieran los cielos que baste;
+porque en dando una mujer
+en celosos disparates,
+hará verdades mentiras
+y hará mentiras verdades.
+Vanse. Salen don LUIS, don BERNARDO y
+
+56
+
+criados
+LUIS:
+BERNARDO:
+LUIS:
+
+BERNARDO:
+LUIS:
+
+BERNARDO:
+
+LUIS:
+BERNARDO:
+
+LUIS:
+BERNARDO:
+
+LUIS:
+BERNARDO:
+LUIS:
+BERNARDO:
+
+No hay sitio, no hay señal, prado ni río
+que déllas tenga ni señal ni nueva.
+Buscarlas me parece desvarío.
+¡Que a darme tal pesar Leonor se atreva!
+Corrido voy del pensamiento mío,
+que de uno en otro a tal rigor me lleva,
+que os dije la sospecha que tenía.
+No estoy muy lejos de decir la mía.
+Como yo vi que de camino andaba
+el indiano don Juan, dióme cuidado,
+creyendo que Leonor se le inclinaba;
+engaño de mis celos fabricado
+que, como vistes, en su casa estaba
+de mi ofendido honor tan descuidado,
+que apenas le llamé cuando me abrieron.
+Sospechas de don Juan injustas fueron.
+Yo soy su amigo, y si a Leonor quisiera,
+cuando le dije yo que la quería
+lo mismo en confianza me dijera
+y desistiera yo de mi porfía;
+como la vuestra mi sospecha fuera;
+pero presumo que es verdad la mía.
+Pues vos ¿qué sospecháis?
+Un pensamiento
+que a Blanca pudo dar atrevimiento.
+Hay en este lugar un caballero,
+que ha venido a negocios de Navarra
+entendido, galán y lisonjero;
+persona, en fin, para querer, bizarra.
+No ya libre navío del mar fiero
+de Sanlúcar pasó la estrecha barra
+con más banderas, que le sirven de alas,
+que él por mi calle con diversas galas.
+Halléle hablando con mi hermana un día
+y díjome, turbado, que informado
+de que presto a Sevilla me volvía,
+estaba de mi casa aficionado.
+Pienso, don Luis, que la verdad decía;
+pero dándome celos su cuidado,
+me informé de su casa, por si acaso
+tantos paseos no mudaban paso.
+Esta que veis, don Luis, es su posada.
+Sí; pero ¡de qué sirve haber creído
+esa imaginación sólo fundada
+en verle en vuestra calle divertido?
+¿Vos no buscastes a don Juan, la espada
+celosa del agravio y prevenido
+el ánimo a matarle? Pues yo quiero
+buscar este navarro caballero.
+Que como imaginastes que podía
+a Sevilla llevarse vuestra hermana,
+a Pamplona podrá llevar la mía,
+si no me sale la esperanza vana.
+Pues qué, ¿pensáisle hablar?
+Eso querría.
+¿En qué ocasión?
+Con que se va mañana
+
+57
+
+LUIS:
+BERNARDO:
+
+y que estoy desta casa aficionado.
+Pensémoslo mejor.
+Ya lo he pensado.
+Pónense a hablar los dos, y entran don JUAN
+y TELLO
+
+JUAN:
+
+TELLO:
+
+JUAN:
+
+TELLO:
+JUAN:
+
+TELLO:
+LUIS:
+
+BERNARDO:
+LUIS:
+JUAN:
+BERNARDO:
+JUAN:
+
+Desde que don Luis me habló
+con don Bernardo en mi casa,
+Tello, los vengo siguiendo
+y que viniesen me espanta
+adonde perdí a Leonor.
+¿Cómo ya saben que falta,
+pues a su casa no ha vuelto,
+ni menos salió con Blanca?
+Alguien que lo vio lo ha dicho.
+Vive Dios, que más extraña
+confusión no ha sucedido
+a hombre, y que se me acaba
+la paciencia imaginando
+que puedan desdichas tantas
+caber en sola una noche.
+Si estuvieran acabadas,
+menos mal hubiera sido.
+No cuenta cosas tan varias
+de Clariquea, Heliodoro.
+Las de Teágenes pasan
+en años, pero las mías
+en una noche.
+No hagas
+exclamaciones, que pueden
+oírte.
+¡Oh leyes humanas
+e inhumanas! Que a los hombres
+nos toque, por muchas causas,
+el servir a las mujeres,
+el acudir a las galas
+(que es lo que ellas más estiman),
+el sustentarlas, el darlas
+hasta la sangre y la vida
+y algunas veces el alma,
+está bien; dellas nacimos,
+que ya con esto se paga;
+pero ¡que el mundo haya puesto
+nuestra honra, nuestra fama
+y autoridad en sus manos...!
+Como por las calles anda
+tanta gente, ¿en ciertos hombres
+que nos siguen, no reparas?
+Bien dices. ¡Ah, caballeros!
+¿Quiérennos algo? ¡No hablan?
+Don Juan soy.
+¿Vos nos seguís?
+Desde que me habló en mi casa,
+don Luis, sospeché que andáis
+de pesadumbre, y la espada
+es en los hombres de bien
+para defender la causa,
+después de la fe y del rey,
+
+58
+
+BERNARDO:
+
+JUAN:
+TELLO:
+
+del amigo y de la patria.
+No quiero saber lo que es,
+sino que a serviros salga;
+que no sufre la que es noble
+estar ociosa en la vaina.
+Sois bien nacido en efeto;
+merecéis que el rey os haga
+la merced que le pedís,
+y si fuere de importancia
+nos la haréis, como habéis dicho.
+Yo llamo en aquesta casa,
+donde pienso que ha de estar
+cierta prenda que me falta.
+Tello, don Bernardo busca
+a Leonor; gran mal me aguarda;
+mala noche de San Juan.
+Peor será la mañana.
+Sale Don PEDRO
+
+PEDRO:
+
+LUIS:
+PEDRO:
+LUIS:
+
+PEDRO:
+
+No he visto venir el día
+con tantas voces. ¿Quién llama?
+Justicia es ésta. ¿Quién es?
+El amparar esta dama
+me ha de costar pesadumbre
+si ha de resultar en Blanca.
+Dejádmele hablar a mí.
+Caballero, dos palabras.
+¿Qué me mandáis en que os sirva?
+Esta noche, de una casa
+principal, falta a su dueño,
+no digo su honor, su hermana,
+y se sabe que está aquí.
+Toda esta gente embozada
+es justicia; vos podéis
+seguro manifestarla
+de que no os harán agravio;
+donde no . . .
+Señores, basta;
+así es verdad que la tengo,
+que aquí llegó lastimada,
+como mujer a quien suelen
+suceder tales desgracias.
+Dila el favor que era justo.
+Yo voy por ella.
+Vase
+
+LUIS:
+
+JUAN:
+TELLO:
+BERNARDO:
+
+Obligada
+dejaréis su casa y deudos
+por defensor de su fama.
+Aquí está Blanca, Bernardo.
+¿Luego buscaban a Blanca?
+¿No lo ves? Menos desdicha,
+pues que no podrán casarla
+con don Bernardo a Leonor.
+Pensando estoy con qué traza
+salga yo de aquí con honra.
+
+59
+
+LUIS:
+
+No lo penséis sin hablarla,
+porque su lengua ha de ser
+o el remedio o la venganza.
+Salen Don PEDRO y LEONOR
+
+PEDRO:
+LEONOR:
+PEDRO:
+BERNARDO:
+LUIS:
+BERNARDO:
+LUIS:
+BERNARDO:
+LUIS:
+LEONOR:
+
+BERNARDO:
+LEONOR:
+LUIS:
+PEDRO:
+
+Señora, salir es fuerza;
+que si pudiera excusarla,
+yo os sirviera; mas no puedo.
+Si no es quien pienso, me aguarda
+la muerte; pero ¿qué importa,
+si mis desdichas se acaban?
+La dama es ésta, señores.
+Esta no es Blanca, mi hermana.
+¿Pues quién?
+La vuestra.
+¡Leonor!
+La misma.
+¿Pues cómo estabas
+en esta casa?
+Salimos
+yo y Blanca con otras damas
+al Prado, y como estas noches
+tantos desatinos pasan,
+unos hombres descorteses,
+con poco honestas palabras
+nos daban grita, a quien otros
+hicieron con las espadas
+callar bien a costa suya.
+Yo y Blanca entonces, turbadas,
+a este hidalgo le pedimos
+nos escondiese en su casa,
+porque a las demás del coche
+presas pienso que llevaba
+la justicia.
+Desa suerte,
+¿aquí también está Blanca?
+Sí, señor.
+Notable dicha.
+Señor, decilda que salga,
+porque esa dama es mi esposa.
+Si ella lo dice, eso basta,
+que ya sale, y yo a su gusto
+no replicaré palabra.
+Doña BLANCA y ANTONIA salen
+
+BLANCA:
+
+JUAN:
+TELLO:
+
+Pues ya Leonor os ha dicho,
+señores, nuestra jornada,
+yo no tengo que añadir
+sino sólo que deis gracias
+a este noble caballero.
+Tello, de la lengua al alma
+anda mi amor dando voces,
+aunque parece que calla.
+Como la gloria en el fin
+siempre dicen que se canta,
+aquí se llora el peligro.
+
+60
+
+LUIS:
+
+BERNARDO:
+LEONOR:
+
+LUIS:
+TELLO:
+
+JUAN:
+TELLO:
+JUAN:
+
+BERNARDO:
+
+LUIS:
+
+Sólo falta que casadas
+queden las dos, ya que el cielo
+favoreció nuestra causa;
+no aguardemos otra noche
+de San Juan, que la pasada
+nos podrá servir de ejemplo.
+Dad vos la mano a mi hermana,
+que yo la daré a la vuestra.
+Las mujeres no se casan
+dos veces, vivos sus dueños,
+aunque suelen tener causa,
+si no es aquellas que quieren
+ser dos veces desdichadas.
+Leonor, ¿qué dices?
+Don Juan,
+¿qué estás mirando? ¿Qué aguardas?
+Mira que dan a Leonor;
+di que es tuya, llega y habla.
+¿Quieres tú que te la metan
+con una cuchar de plata
+dentro de la boca?
+Amor,
+señores, cuya tirana
+fuerza. . .
+Qué entrada tan necia.
+Tiembla el mundo y llora España.
+Comunicando diez meses
+con doña Leonor gallarda
+por las ventanas los ojos,
+por los papeles las almas,
+me dio de su voluntad
+(cuando más rendido estaba)
+victoria; con que os he dicho
+que está conmigo casada.
+Ya sabéis los dos quién soy.
+Don Juan, mi amistad se agravia,
+no de querer a Leonor,
+mas de no decir que estaban
+en estado vuestros pechos,
+que la pretensión dejara
+desistiendo de la empresa,
+aunque con menos ventaja,
+pues hoy doy la posesión
+y allí os diera la esperanza;
+dalde la mano, y así
+con don Luis se casa Blanca,
+que aunque se rompa el concierto,
+mejor estará empleada
+en vos que en mí.
+Yo agradezco,
+don Bernardo, por tres causas
+esas razones: por mí,
+por don Juan y por mi hermana;
+pero pues vos no os casáis,
+y en esto el concierto falta,
+ni yo es justo que me case,
+sino que halle en esta casa
+Blanca en don Pedro marido,
+que la relación pasada
+que me hicistes de los celos
+
+61
+
+PEDRO:
+JUAN:
+PEDRO:
+TELLO:
+PEDRO:
+
+y el hallarla aquí me mandan
+que se la dé con mi gusto.
+Con la misma confianza
+estuve siempre.
+Yo soy
+de Leonor.
+Yo soy de Blanca.
+¿Y yo de quién soy?
+De Antonia.
+Aquí la comedia acaba
+de la noche de San Juan,
+que si el arte se dilata
+a darle por sus preceptos
+al poeta, de distancia,
+por favor, veinticuatro horas,
+ésta en menos de diez pasa.
+
+FIN DE LA COMEDIA
+
+62
+
+

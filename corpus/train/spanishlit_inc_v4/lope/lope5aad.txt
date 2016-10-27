@@ -1,0 +1,25 @@
+TELLO
+
+A ti.
+
+FABIA
+
+Debe de pensar que yo
+soy perro de muestra.
+
+TELLO
+FABIA
+
+No.
+¿Tiene algún achaque?
+
+TELLO
+
+Sí.
+
+FABIA
+
+¿Qué enfermedad tiene?
+
+TELLO
+

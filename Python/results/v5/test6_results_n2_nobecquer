@@ -1,0 +1,46 @@
+Which library version do you want to import? Choose N value for the Ngram: Should we consider becquer [y/n]? > Define categories... Done!
+> Obtain language model of calderon ... Done!
+> Obtain language model of cervantes ... Done!
+> Obtain language model of garcia ... Done!
+> Obtain language model of lope ... Done!
+> Obtain language model of perez ... Done!
+> Obtain language model of pardo ... Done!
+> Obtain language model of quevedo ... Done!
+> Obtain all language models... Done!
+> Load test files... Done!
+> Initialize classification matrix with value zero... Done!
+> Classification of tests from category lope ... Done!
+> Classification of tests from category garcia ... Done!
+> Classification of tests from category cervantes ... Done!
+> Classification of tests from category calderon ... Done!
+> Classification of tests from category quevedo ... Done!
+Error in: true:  perez, Evaluated as: calderon  (ignored)
+Error in: true:  perez, Evaluated as: cervantes  (ignored)
+Error in: true:  perez, Evaluated as: garcia  (ignored)
+Error in: true:  perez, Evaluated as: lope  (ignored)
+Error in: true:  perez, Evaluated as: perez  (ignored)
+Error in: true:  perez, Evaluated as: pardo  (ignored)
+Error in: true:  perez, Evaluated as: quevedo  (ignored)
+> Classification of tests from category perez ... Done!
+> Classification of tests from category pardo ... Done!
+> Fulfill the classification matrix... Done!
+Classification matrix (row: real, column: estimated):
+           calderon  cervantes  garcia  lope  pardo  perez  quevedo
+calderon        415          2       0    31      0      0        1
+cervantes         4        142       0    18      0      0        0
+garcia            3          0     152     5      1      0        1
+lope             89          2       1   452      0      0        1
+pardo             0          2       1     0    203      2        1
+perez             0          0       8     0      0    522        0
+quevedo           1         72       0     6      0      1       87
+> Initialize metric matrix for recall/precission/f1 score with value zero... Done!
+Metric matrix:
+                 F1 score      Precission          Recall  Support
+calderon         0.863684        0.810547        0.924276      449
+cervantes        0.739583        0.645455        0.865854      164
+garcia           0.938272        0.938272        0.938272      162
+lope             0.855251        0.882812        0.829358      545
+perez            0.989573        0.994286        0.984906      530
+pardo            0.983051        0.995098        0.971292      209
+quevedo          0.674419        0.956044        0.520958      167
+global     0.884886224501  0.897362607483  0.886343216532     2226

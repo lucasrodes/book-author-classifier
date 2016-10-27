@@ -1,0 +1,10 @@
+COSME:
+¿Hechiceras?
+MANUEL:
+¡Qué error!
+COSME:
+¿Hay sucubos?
+MANUEL:
+No.
+COSME:
+¿Encantadoras?

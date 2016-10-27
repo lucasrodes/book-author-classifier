@@ -1,0 +1,10 @@
+LUIS:
+Ay hermana, ¿qué he de hacer?
+ÁNGELA:
+Dar tus penas al olvido;
+que querer aborrecido
+es morir y no querer.
+Vase [ÁNGELA] con ISABEL
+
+LUIS:
+

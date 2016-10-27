@@ -1,0 +1,10 @@
+CLARÍN
+TODOS
+CLARÍN
+[SOLDADO] 2
+
+Entrad dentro.
+Aquí está.
+No está.
+Señor...
+¿Si vienen borrachos éstos? [161]

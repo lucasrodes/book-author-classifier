@@ -48,10 +48,10 @@ To prepare training and test sets we have proceeded as follows:
 ## Requirements
 
 ###[NLTK](http://www.nltk.org/book/)
-- This is a Natural Language toolkit developed Team NLTK.
-- For us, [Chapter 6](http://www.nltk.org/book_1ed/ch06.html) is interesting
-- Cool resource: [Demo Corpora (Text Collections Ready for Use)](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets)
-- Interesting database [txtLAB450 - A Multilingual Data Set of Novels for Teaching and Research](https://ndownloader.figshare.com/files/3686778)
-- [Associated labeling](https://ndownloader.figshare.com/files/3686805)  
-- [Index of /biblioteca_digital/libros](http://www.edu.mec.gub.uy/biblioteca_digital/libros/)
+	- This is a Natural Language toolkit developed Team NLTK.
+	- For us, [Chapter 6](http://www.nltk.org/book_1ed/ch06.html) is interesting
+	- Cool resource: [Demo Corpora (Text Collections Ready for Use)](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets)
+	- Interesting database [txtLAB450 - A Multilingual Data Set of Novels for Teaching and Research](https://ndownloader.figshare.com/files/3686778)
+	- [Associated labeling](https://ndownloader.figshare.com/files/3686805)  
+	- [Index of /biblioteca_digital/libros](http://www.edu.mec.gub.uy/biblioteca_digital/libros/)
 # book-author-classifier

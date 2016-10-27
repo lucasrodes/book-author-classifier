@@ -1,0 +1,10 @@
+SOLDADOS
+REBOLLEDO, soldado
+La CHISPA, soldadera
+
+Pedro CRESPO, labrador
+JUAN, hijo de Pedro Crespo
+ISABEL, hija de Pedro Crespo
+INÉS, prima de Isabel
+Don MENDO, hidalgo gracioso
+NUÑO, criado de don Mendo

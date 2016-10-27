@@ -1,0 +1,10 @@
+LUIS:
+¿Qué enemigo? Detente.
+COSME:
+El agua de una fuente y otra fuente.
+MANUEL:
+¿De aqueso te inquietas?
+COSME:
+Venía de cojines y maletas
+por la calle cargado,
+y en una zanja de una fuente he dado,

@@ -1,0 +1,10 @@
+ESPANTANUBLOS. ¿Quiere su merced tomar algo?
+JOVEN. ¡Ay! No.
+ESPANTANUBLOS. ¿Hace tiempo que llegó?
+JOVEN. ¡Ay! No.
+ESPANTANUBLOS. Parece que suspira.
+JOVEN. ¡Ay! ¡Ay!
+CONTRABANDISTA 1.° ¿Quién es?
+ESPANTANUBLOS. No he podido adivinarlo.
+CONTRABANDISTA 2.° ¿Si será?...
+CONTRABANDISTA 1.° Mejor será que nos vayamos.
