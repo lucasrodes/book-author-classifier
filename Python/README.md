@@ -14,22 +14,9 @@ are:
 - Folder results contains the results for prior executions.
 - For new executions, create directory in folder results (vX), typically associated with a library version X
 
+Run the following lines to create a new directory caled `directory` in results and store the results generated when using test2.py
 
 ```
-cd /veu4/usuaris30/speech00/finalproject/Python/scikit/
 mkdir vX
-cd ..
-version=v3
-python -u test2.py | tee results/vX/test2_results
-python -u test2.py | tee results/vX/test2_results_nobecquer
-python -u test3.py | tee results/vX/test3_results
-python -u test3.py | tee results/vX/test3_results_nobecquer
-python -u test4.py | tee results/vX/test4_results
-python -u test4.py | tee results/vX/test4_results_nobecquer
-python -u test6.py | tee results/$version/test6_results_n1
-python -u test6.py | tee results/$version/test6_results_n1_nobecquer
-python -u test6.py | tee results/$version/test6_results_n2
-python -u test6.py | tee results/$version/test6_results_n2_nobecquer
-python -u test6.py | tee results/$version/test6_results_n3
-python -u test6.py | tee results/$version/test6_results_n3_nobecquer
+python -u test2.py | tee results/directory
 ```
