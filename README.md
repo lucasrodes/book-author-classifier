@@ -29,18 +29,18 @@ unclassified due to historical reasons (e.g. Shakespeare and Cervantes). Also, i
 ## Training:
 To prepare the training and test sets follow this procedure:
 
-	1. Download books in pdf from [this library](http://www.edu.mec.gub.uy/biblioteca_digital/libros/) and save them in ~/corpus/pdf.
-	2. Convert the PDFs in chunks of plain text files. This can be done using the scripts `move_inc.sh` or `move_ninc.sh` (depending on the approach) located in ~/corpus/txt. More information [here](corpus/README.md)
-		- Run `bash move_inc.sh` to obtain fragments of all the books in both test and training. 
-		- Run `bash move_ninc.sh` to obtain fragments of some books in test and some others in the training (proportion test:train, 3:10).
-		**Note**: This will remove the pdf files (if you don't wish so, please modify the first lines of the scripts).
+1. Download books in pdf from [this library](http://www.edu.mec.gub.uy/biblioteca_digital/libros/) and save them in ~/corpus/pdf.
+2. Convert the PDFs in chunks of plain text files. This can be done using the scripts `move_inc.sh` or `move_ninc.sh` (depending on the approach) located in ~/corpus/txt. More information [here](corpus/README.md)
+	- Run `bash move_inc.sh` to obtain fragments of all the books in both test and training. 
+	- Run `bash move_ninc.sh` to obtain fragments of some books in test and some others in the training (proportion test:train, 3:10).
+	- **Note**: This will remove the pdf files (if you don't wish so, please modify the first lines of the scripts).
 	
 ## Critical issues	
-	- Do not change the names of the folders, this could provoke problems in the code.
-	- However, you should change the paths in the bash scripts according to where the project is located (this includes `move_inc-sh` and `move_ninc.sh`).
-	- Also change the paths from the python scripts according to the location of the test and training libraries.
-	- PDF files should begin with the name of the author (or last name etc.)
-	- If you add new authors to the library, update the python files accordingly.
+- Do not change the names of the folders, this could provoke problems in the code.
+- However, you should change the paths in the bash scripts according to where the project is located (this includes `move_inc-sh` and `move_ninc.sh`).
+- Also change the paths from the python scripts according to the location of the test and training libraries.
+- PDF files should begin with the name of the author (or last name etc.)
+- If you add new authors to the library, update the python files accordingly.
 
 ## Requirements
 
