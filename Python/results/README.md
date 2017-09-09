@@ -2,4 +2,4 @@ his folder contains results for the v3 library, including: Naive Bayes (test2), 
 
 * Files ending with _nobecquer_ contain results for the algorithms ran on datasets not containing the category corresponding to the author "Bequer".
 
-* The term _n1_ means that the results were obtained using Unigram model, _n2_ means bigram and so on.
+* The term _n1_ means that the results were obtained using Unigram model, _n2_ means bigram and so on (only applicable to NLM methods).
