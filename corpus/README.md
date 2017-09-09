@@ -1,4 +1,4 @@
-## Folders
+## Folders
 
 ## pdf/
 This folder contains some pdfs downloaded from the cited databse. This could be the folder you could save your pdf files.
