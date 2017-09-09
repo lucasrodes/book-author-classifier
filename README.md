@@ -8,7 +8,7 @@ The project started in May 2016 by [lucasrodes](https://github.com/lucasrodes) a
 
 ---
 
-For more information, feel free to read the our [report](report.pdf).
+For more information, feel free to read the our [report](docs/report.pdf) and [slides](docs/slides.pdf).
 
 ## Idea
 The idea is as follows:
