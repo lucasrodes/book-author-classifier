@@ -1,7 +1,7 @@
 # Book-Author-classification
 
 This is the repo for a classifier of book fragments. We have used spanish literature books. We have used different classifiers and different trainig/test data distribution strategies.
-For more information, read the report of our work.
+For more information, feel free to read the our [report](Report.pdf)
 
 ## Idea
 The idea would be as follows:
